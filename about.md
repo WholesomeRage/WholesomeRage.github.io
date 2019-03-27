@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: about
 title: About
+whois: Wholesome Rage
 permalink: /about/
 ---
 
