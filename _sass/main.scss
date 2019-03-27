@@ -93,6 +93,11 @@ div.article {
             max-width: 100%;
             align-content: center;
         }
+
+        iframe {
+            display: block;
+            margin: 0 auto;
+        }
     }
 }
 
