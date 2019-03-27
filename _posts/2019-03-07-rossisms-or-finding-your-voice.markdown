@@ -48,7 +48,7 @@ Let’s get more personal.
 
 Let’s talk about my personal cliches, my recurring habits.
 
-### 1: Always give your protagonist an easy way out that gets them almosteverything they want. It gives them something to refuse.
+### 1: Always give your protagonist an easy way out that gets them almost everything they want. It gives them something to refuse.
 
 There’s a fantastic piece of writing advice: “Every character should want something, even if it is only a glass of water”. But everyone wants something more than something else. We have priorities.
 
