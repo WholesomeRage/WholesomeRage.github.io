@@ -14,21 +14,13 @@
             <div>
                 <div>
                     <h1>wholesome<strong>rage</strong></h1>
+                    {% for item in site.data.navigation %}
                     <span>
-                        <a href="/">Home</a>
+                        <a href="{{ item.link }}">
+                            {{ item.name }}
+                        </a>
                     </span>
-                    <span>
-                        <a href="/patreon/">Patreon</a>
-                    </span>
-                    <span>
-                        <a href="/commissions/">Commissions</a>
-                    </span>
-                    <span>
-                        <a href="/summoning/">Summoning</a>
-                    </span>
-                    <span>
-                        <a href="/about/">About</a>
-                    </span>
+                    {% endfor %}
                 </div>
             </div>
         </nav>
