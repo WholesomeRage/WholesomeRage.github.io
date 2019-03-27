@@ -2,6 +2,7 @@
 layout: "post"
 title: Procrastination is Character Building
 date: 2019-02-20 21:02:00 -0700
+author: Wholesome Rage
 ---
 
 I aspire to be like George Orwell, alternating between essays on writing and essays on politics, and dying before the age of fifty. It seems I’ve been a bit heavy on the politics essays lately, so I thought it might be time to write another writing advice article.

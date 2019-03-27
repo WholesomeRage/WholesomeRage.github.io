@@ -1,6 +1,6 @@
 /* Created mostly by RB of the FimFiction server, with sparse help from Figments */
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700');
 
 /* Nav Element Stylings */
@@ -59,10 +59,41 @@ nav > div > div > span > a {
     }
 }
 
+/* Generic Body Stylings */
+body {
+    font-family: 'Merriweather';
+}
+
 /* Article Element Stylings */
 
-.article {
+div.article {
+    h1 {
+        text-align: center;
+        font-size: 50px;
+    }
+    h2 {
+        text-align: center;
+        font-weight: 300;
+        font-size: 18px;
+    }
 
+    div.body {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 1em;
+        padding-right: 1em;
+        text-align: justify;
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: auto;
+            max-width: 100%;
+            align-content: center;
+        }
+    }
 }
 
 blockquote {
