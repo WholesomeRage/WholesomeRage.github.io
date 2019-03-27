@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Ross James](/assets/journalross-e1527606159689.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Wholesome Rage is owned and operated by the Australian author Ross James.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It updates Wednesday with articles on subjects ranging from science, economics, politics, history and writing advice.
 
+Ross James has had a semi-successful and rewarding (non-financially) career of writing fun stories about magical ponies. He wrote a sold out play in a city hardly known for its theatre and wrote a script picked up by BAFTA winning Kevan Brighting who then never did anything with it. He also wrote a parody script for an Apple ad that actually got used by Apple, because Apple is too rich for irony.
 
-[jekyll-organization]: https://github.com/jekyll
+He feels embarrassed about this, but is not going to return the money.
