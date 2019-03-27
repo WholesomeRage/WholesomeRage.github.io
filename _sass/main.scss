@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans');
+
+nav {
+    width: 100%;
+    height: 10rem;
+    background-image: url(/assets/images/4441cd00e8a9d75436b52d5ad646ff4f.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Merriweather Sans', sans-serif;
+
+    div {
+        color: #F3CD49;
+        background-color: #2E270E
+
+        h1 {
+            display: inline;
+            font-weight: normal;
+        }
+    }
+}

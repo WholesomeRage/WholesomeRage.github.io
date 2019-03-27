@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Ross James](/assets/journalross-e1527606159689.jpg)
+![Ross James](/assets/images/journalross-e1527606159689.jpg)
 
 Wholesome Rage is owned and operated by the Australian author Ross James.
 
