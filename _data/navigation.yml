@@ -1,14 +1,11 @@
 - name: Home
   link: /
 
-- name: Patreon
-  link: /patreon/
+- name: Feed
+  link: /feed/
 
 - name: Commissions
   link: /commissions/
-
-- name: Summoning
-  link: /summoning/
 
 - name: About
   link: /about/

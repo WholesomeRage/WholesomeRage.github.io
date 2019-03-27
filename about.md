@@ -1,11 +1,11 @@
 ---
 layout: about
 title: About
-whois: Wholesome Rage
+whois: Ross James
+img: journalross-e1527606159689.jpg
+email: kaironaut@icloud.com
 permalink: /about/
 ---
-
-![Ross James](/assets/images/journalross-e1527606159689.jpg)
 
 Wholesome Rage is owned and operated by the Australian author Ross James.
 
