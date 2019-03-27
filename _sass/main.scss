@@ -15,6 +15,7 @@ nav {
     justify-content: center;
     padding-top: 1.75em;
     padding-bottom: 1.75em;
+    margin-bottom: 3em;
 }
 nav > div {
     background-color: rgba(24,25,29,0.9); 
@@ -27,7 +28,7 @@ nav > div > div {
     grid-template-columns: repeat(6, auto);
     justify-content: left;
     width: 95%;
-    max-width: 87.5rem;
+    max-width: 96rem;
 }
 
 nav > div > div > span {
