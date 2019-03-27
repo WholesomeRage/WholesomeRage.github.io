@@ -13,6 +13,8 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 1.75em;
+    padding-bottom: 1.75em;
 }
 nav > div {
     background-color: rgba(24,25,29,0.9); 
@@ -49,6 +51,7 @@ nav > div > div > span > a {
     padding: 2rem;
     color: #F3CD49;
     text-decoration: none;
+    font-size: 16px;
 
     :hover {
         color: #ccc;
@@ -56,6 +59,10 @@ nav > div > div > span > a {
 }
 
 /* Article Element Stylings */
+
+.article {
+
+}
 
 blockquote {
     font-style: italic;
