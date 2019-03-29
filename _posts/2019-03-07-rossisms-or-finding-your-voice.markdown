@@ -3,6 +3,7 @@ layout: "post"
 title: Rossisms, or Finding Your Voice
 date: 2019-03-07 02:03:00 -0700
 author: Wholesome Rage
+contributor: false
 ---
 Doing the last article using examples gave me an idea.
 
