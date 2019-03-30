@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <!--Default stuff-->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!--Search functionality-->
+        {% if page.tipue_search_active or layout.tipue_search_active %}
+            <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+            <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+            <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+            <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+        {% endif %}
+
+        <!--Stylesheets-->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
         <link rel="stylesheet" href="/assets/css/Skeleton-2.0.4/css/normalize.css">
         <link rel="stylesheet" href="/assets/css/Skeleton-2.0.4/css/skeleton.css">
         <link rel="stylesheet" href="/assets/css/styles.css">
 
+        <!--Page title-->
         <title>{{ page.title }} - Wholesome Rage</title>
     </head>
     <body>
@@ -36,7 +50,5 @@
                 &copy; 2019 Wholesome Rage | <a href="#">Back to top</a>
             </div>
         </footer>
-        <script src="https://unpkg.com/lunr/lunr.js"></script>
-        <script src="/assets/js/search.js"></script>
     </body>
 </html>
