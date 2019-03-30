@@ -10,6 +10,19 @@ layout: "default"
     <div class="body">
         {{ content }}
 
+        <div class="row">
+            <div class="six columns">
+                {% if page.previous.url %}
+                    <a class="button" href="{{ page.previous.url }}">&laquo;&nbsp;{{ page.previous.title }}</a>
+                {% endif %}
+            </div>
+            <div class="six columns" style="align-content: right;">
+                {% if page.next.url %}
+                    <a class="button" href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&raquo;</a>
+                {% endif %}
+            </div>
+        </div>
+
         {% if page.contributor == true %}
             <hr>
             <h3>About {{ page.author }}</h3>
