@@ -28,10 +28,10 @@ layout: "default"
         </div>
     </div>
     <div class="four columns">
-        <form style="margin-top: 5rem;">
+        <form action="/search.html"style="margin-top: 5rem;">
             <div class="row">
                 <div class="nine columns">
-                    <input class="u-full-width" type="text" placeholder="Search articles ...">
+                    <input class="u-full-width" type="text" id="search-box" name="query" placeholder="Search articles ...">
                 </div>
                 <div clas="three columns">
                     <button type="submit" style="float: right;"><i class="fas fa-search"></i></button>
@@ -50,7 +50,7 @@ layout: "default"
                 <tbody>
                         {% for category in site.categories %}
                         <tr>
-                            <td><a class="category-link" href="{{ site.url }}/category/{{ category | first | url_encode }}/index.html">{{ category | first }}</td>
+                            <td><a class="category-link" href="{{ site.baseurl }}/category.html#{{ category[0] | slugify }}">{{ category | first }}</td>
                             <td>{{ category | last | size }}</td>
                         </tr>
                     {% endfor %}

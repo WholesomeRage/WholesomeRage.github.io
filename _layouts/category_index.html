@@ -3,17 +3,25 @@ layout: default
 ---
 
 <div class="category-page">
-    <h1>Category index for &ldquo;{{ page.title }}&rdquo;</h1>
-    <h2>Number of Articles: {{ page.posts | size }}</h2>
-    <hr>
+    <h1>Category Index</h1>
 
+    <center>
+    {% for category in site.categories %}
+        <a class="category-tag" href="#{{ category[0] | slugify}}"><i class="fas fa-tags"></i>  {{ category[0] }} - {{ category | last | size }}</a>
+    {% endfor %}
+    </center>
+    <hr>
     <section>
-        {% for post in page.posts %}
-            <article>
-                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <h5>by {{ post.author }} | {{ post.date | date: "%-d %B %Y"}}</h5>
-                <hr>
-            </article>
+        {% for tag in site.categories %}
+            <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+
+            {% for post in tag[1] %}
+                <article>
+                    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                    <h5>by {{ post.author }} | {{ post.date | date: "%-d %B %Y" }}</h5>
+                </article>
+            {% endfor %}
+            <hr>
         {% endfor %}
     </section>
 </div>

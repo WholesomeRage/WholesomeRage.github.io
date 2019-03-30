@@ -69,6 +69,29 @@ body {
     padding-bottom: 50px;
 }
 
+.category-tag {
+    display: inline-block;
+    background: #5A6297;
+    color: whitesmoke;
+    margin-right: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    transition: all 0.1s ease-in-out;
+    text-decoration: none;
+    font-variant: small-caps;
+    
+}
+
+.category-tag:before {
+    padding-right: 0.5em;
+}
+
+.category-tag:hover {
+    text-decoration: none;
+    background: #838EDB;
+    color: #fff;
+}
+
 /* Home Page Stylings */
 div.article-list {
     text-align: justify;
@@ -157,10 +180,18 @@ div.category-page {
             color: #5A6297;
         }
 
+        h2 {
+            font-size: 4rem;
+        }
+
         h3 {
             margin-bottom: 0.5rem;
             font-weight: 400;
-            font-size: 4rem;
+            font-size: 3rem;
+        }
+
+        h5 {
+            font-size: 1.5rem;
         }
     }
 }
