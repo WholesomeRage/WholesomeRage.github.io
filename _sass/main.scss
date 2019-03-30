@@ -25,14 +25,17 @@ nav > div > div {
     padding: 0.5rem;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(6, auto);
+    grid-template-columns: 1fr 1fr;
     justify-content: left;
     width: 95%;
     max-width: 96rem;
 }
 
 nav > div > div > span {
-    margin: auto 0;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    justify-content: right;
 }
 
 nav > div > div > h1 {
@@ -47,20 +50,16 @@ nav > div > div > h1 > strong {
     font-weight: 700;
 }
 
-nav > div > div > span > span {
-    
-}
-
 nav > div > div > span > span > a {
     font-family: 'Montserrat';
     padding: 2rem;
     color: #F3CD49;
     text-decoration: none;
     font-size: 16px;
+}
 
-    :hover {
-        color: #ccc;
-    }
+nav > div > div > span > span > a:hover {
+    color: #838EDB;
 }
 
 /* Generic Body Stylings */
@@ -196,6 +195,32 @@ div.category-page {
     }
 }
 
+/* About Page Styling */ 
+
+h1.about {
+    text-align: center;
+    color: #3F456A;
+}
+
+table.about-contact {
+    tbody {
+        tr {
+            td {
+                text-align: center;
+
+                a {
+                    text-decoration: none;
+                    color: #3F456A;
+                }
+
+                a:hover {
+                    color: #838EDB;
+                }
+            }
+        }
+    }
+}
+
 /* Article Element Stylings */
 div.article {
     h1 {
@@ -244,6 +269,39 @@ blockquote {
     font-style: italic;
     border-left: 3px solid #ccc;
     padding-left: 15px;
+}
+
+/* Patreon and Commission Cards */
+.card-deck {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column
+}
+
+.card-deck .card {
+    margin-bottom: 15px
+}
+
+@media (min-width:576px) {
+    .card-deck {
+        -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+        margin-right: -15px;
+        margin-left: -15px
+    }
+
+    .card-deck .card {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex: 1 0 0%;
+        flex: 1 0 0%;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-right: 15px;
+        margin-bottom: 0;
+        margin-left: 15px
+    }
 }
 
 /* Footer Element Stylings */

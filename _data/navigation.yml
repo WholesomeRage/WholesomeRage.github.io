@@ -1,11 +1,8 @@
 - name: Home
   link: /
 
-- name: Patreon
-  link: /patreon.html
-  
-- name: Commissions
-  link: /commissions.html
+- name: Support
+  link: /support/
 
 - name: About
   link: /about/
