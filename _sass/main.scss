@@ -116,6 +116,55 @@ div.article-pages {
     align-content: center;
 }
 
+a.category-link {
+    text-decoration: none;
+    color: #3F456A;
+}
+
+a.category-link:hover {
+    color: #5A6297;
+}
+
+/* Categories pages */ 
+div.category-page {
+    h1 {
+        text-align: center;
+        font-size: 50px;
+        color: #3F456A;
+    }
+
+    h2 {
+        text-align: center;
+        font-weight: 300;
+        font-size: 18px;
+    }
+
+    section {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2em;
+        padding-left: 1em;
+        padding-right: 1em;
+        text-align: justify;
+
+        a {
+            text-decoration: none;
+            color: #3F456A;
+        }
+
+        a:hover {
+            color: #5A6297;
+        }
+
+        h3 {
+            margin-bottom: 0.5rem;
+            font-weight: 400;
+            font-size: 4rem;
+        }
+    }
+}
+
 /* Article Element Stylings */
 div.article {
     h1 {

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="category-page">
+    <h1>Category index for &ldquo;{{ page.title }}&rdquo;</h1>
+    <h2>Number of Articles: {{ page.posts | size }}</h2>
+    <hr>
+
+    <section>
+        {% for post in page.posts %}
+            <article>
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <h5>by {{ post.author }} | {{ post.date | date: "%-d %B %Y"}}</h5>
+                <hr>
+            </article>
+        {% endfor %}
+    </section>
+</div>

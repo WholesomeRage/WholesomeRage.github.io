@@ -50,7 +50,7 @@ layout: "default"
                 <tbody>
                         {% for category in site.categories %}
                         <tr>
-                            <td>{{ category | first }}</td>
+                            <td><a class="category-link" href="{{ site.url }}/category/{{ category | first | url_encode }}/index.html">{{ category | first }}</td>
                             <td>{{ category | last | size }}</td>
                         </tr>
                     {% endfor %}
