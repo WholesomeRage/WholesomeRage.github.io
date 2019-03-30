@@ -3,6 +3,10 @@ layout: "post"
 title: Rossisms, or Finding Your Voice
 date: 2019-03-07 02:03:00 -0700
 author: Wholesome Rage
+categories: [Writing Advice]
+excerpt_separator: <!--more-->
+
+# Contributor stuff
 contributor: false
 ---
 Doing the last article using examples gave me an idea.
@@ -12,6 +16,8 @@ I tried to keep emphasizing that what I like isn’t necessarily what everyone w
 Every author has a ‘voice’ they need to find for themselves, something that makes their work distinct and recognizable. So why not ask what my voice sounds like?
 
 This is usually way more obvious to an audience than an author. The sound of your voice echoes the sounds of your thoughts, and it’s hard to hear your own thoughts clearly. It’s not like being able to listen to a recording of your own voice. You can get that icky feeling, but still not get what it sounds like to other people.
+
+<!--more-->
 
 This seemed like an interesting follow up, for two reasons. First, so I could try to work out for myself what’s distinct about my writing, and figure out my own voice. Two, to try to explain the reasons for it, once it’s pointed out to me.
 

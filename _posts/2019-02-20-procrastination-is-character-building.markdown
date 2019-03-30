@@ -3,6 +3,10 @@ layout: "post"
 title: Procrastination is Character Building
 date: 2019-02-20 21:02:00 -0700
 author: Wholesome Rage
+categories: [Writing Advice]
+excerpt_separator: <!--more-->
+
+# Contributor stuff
 contributor: false
 ---
 
@@ -15,6 +19,8 @@ After asking my editor for suggestions on how to write writing advice, he gave a
 It was fantastic advice—only, halfway through writing this, I realized that making bespoke examples meant implying they were *objectively* good writing.
 
 Not a good feeling, lemme tell you. In my desire to be helpful, I’m afraid that might come across as arrogant. Not my intention at all.
+
+<!--more-->
 
 So here’s the deal. I’m just making examples to demonstrate concepts, and I’m not holding them up as the definitively correct way to write. But I only get to make that attempt if you promise to show me a little bit of mercy on this.
 

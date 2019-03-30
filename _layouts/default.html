@@ -15,13 +15,15 @@
             <div>
                 <div>
                     <h1>wholesome<strong>rage</strong></h1>
-                    {% for item in site.data.navigation %}
                     <span>
-                        <a href="{{ item.link }}">
-                            {{ item.name }}
-                        </a>
+                        {% for item in site.data.navigation %}
+                        <span>
+                            <a href="{{ item.link }}">
+                                {{ item.name }}
+                            </a>
+                        </span>
+                        {% endfor %}
                     </span>
-                    {% endfor %}
                 </div>
             </div>
         </nav>

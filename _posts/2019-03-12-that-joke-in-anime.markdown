@@ -3,6 +3,10 @@ layout: "post"
 title: That Joke In Anime
 date: 2019-03-12 18:03:00 -0700
 author: Wholesome Rage
+categories: [Media]
+excerpt_separator: <!--more-->
+
+# Contributor stuff
 contributor: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSpC8-r5KMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,6 +20,8 @@ So far a lot of people have taken me up on this offer. I’ve even watched the s
 ![](https://lh6.googleusercontent.com/_li672AXdY7GCFiBNyqNu1f6-owAJFT8o3n6EF_lCBlNoArrqn1mSqRYWe6MZnvioqwsvGO2qPmsc6J56GEf50rBdBF4qf64B7_M7vIMiIrBVDKzL3H-lANin79bZeLBSAp-IgCd)
 
 The rest has, without exception, been anime. All of it. A lot of anime.
+
+<!--more-->
 
 This is probably because, until recently, I’ve been confident that I just didn’t like anime. And whenever I’ve told someone I don’t like anime, they’ve gotten some mixture of offended and excited to share the bounty of Japan with me and recommended me something and…
 

@@ -1,9 +1,9 @@
 - name: Home
   link: /
 
-- name: Feed
-  link: /feed/
-
+- name: Patreon
+  link: /patreon/
+  
 - name: Commissions
   link: /commissions/
 

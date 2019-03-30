@@ -1,0 +1,61 @@
+---
+layout: "default"
+---
+
+<div class="row">
+    <div class="eight columns">
+        <div class="article-list">
+            {% for post in paginator.posts %}
+                <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                <h2>by {{ post.author}} | {{ post.date | date: "%-d %B %Y" }}</h2>
+                
+                {{ post.excerpt }}
+
+                <a href="{{ post.url }}">Continue reading ...</a>
+                <hr>
+            {% endfor %}
+        </div>
+        <div class="article-pages">
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="button"><i class="fas fa-chevron-left"></i></a>
+            {% endif %}
+            <span style="margin-left: 2rem; margin-right: 2rem;">
+                Page {{ paginator.page }} of {{ paginator.total_pages }}
+            </span>
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="button"><i class="fas fa-chevron-right"></i></a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="four columns">
+        <form style="margin-top: 5rem;">
+            <div class="row">
+                <div class="nine columns">
+                    <input class="u-full-width" type="text" placeholder="Search articles ...">
+                </div>
+                <div clas="three columns">
+                    <button type="submit" style="float: right;"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+        <hr>
+        <center>
+            <table class="u-full-width">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>#</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        {% for category in site.categories %}
+                        <tr>
+                            <td>{{ category | first }}</td>
+                            <td>{{ category | last | size }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </center>
+    </div>
+</div>
