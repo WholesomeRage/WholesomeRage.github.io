@@ -1,13 +1,13 @@
 ---
 layout: "post"
-title: Pearple Prose&#58 Ben Pearce on Editing
+title: Pearple Prose&colon; Ben Pearce on Editing
 date: 2018-02-13 21:02:00 -0700
 author: Pearple Prose
 
 # This stuff is for contributors only.
 contributor: true
-blurb: "Ben (Pearple Prose) Pearce is  like the Red Skull in Infinity War, guiding others to a treasure he cannot possess. Wait, that implies he's a Nazi, I should start over--"
-img: https://cdn-img.fimfiction.net/user/omjg-1551967672-92239-160
+blurb: "This is a sample blurb for Pearple Prose. Please come up with a better one, kthnx."
+img: /assets/images/DUR6o5b.jpg
 contact:
  - link-one:
     - name: FimFiction
