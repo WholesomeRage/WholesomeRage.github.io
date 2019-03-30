@@ -32,7 +32,7 @@ nav > div > div {
 }
 
 nav > div > div > span {
-    margin: 0 auto;
+    margin: auto 0;
     display: grid;
     grid-template-columns: repeat(3, auto);
     justify-content: right;
