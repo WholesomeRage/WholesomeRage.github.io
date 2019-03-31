@@ -26,6 +26,8 @@ Modern life is basically designed as a massive stress pressure cooker that will 
 
 Maybe you’re not ready to leave your air-conditioned and heated home to pursue a hunter-gatherer lifestyle though, and I don’t blame you. You most likely find your escapism in entertainment. And not just any entertainment either: entertainment that demands the least amount of your mental processing. That’s not to say that it’s entirely stupid entertainment or that it has nothing of value to offer, in fact, it’s often quite the opposite. But it doesn’t require you as the consumer to work to make it entertaining. Clean, simple fun.
 
+<!--more-->
+
 Raiding bokoblin camps in Breath of the Wild. Enjoying a good mystery with Murder on the Orient Express. Watching Soma cook the literal pants off the jerk gourmand of the week in Food Wars. Teaming up with some buddies in Overwatch or Call of Duty. All of these things are escapes of one sort or another.
 
 And that means we’ll never see it coming when they change us.
