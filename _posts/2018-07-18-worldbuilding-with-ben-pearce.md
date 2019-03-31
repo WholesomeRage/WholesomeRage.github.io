@@ -8,12 +8,6 @@ excerpt_separator: <!--more-->
 
 # Contributor stuff
 contributor: true
-blurb: "This is a sample blurb for Pearple Prose. Please come up with a better one, kthnx."
-img: /assets/images/DUR6o5b.jpg
-contact:
- - link-one:
-    - name: FimFiction
-    - location: https://www.fimfiction.net/user/92239/Pearple+Prose
 ---
 
 I love worldbuilding. Most of the things I write about and think about and read about tends to involve it in some fashion – from little oddities, like an Earth that’s exactly the same as ours except for the occasional angel or zombie or android or what-have-you, to the sprawling high-fantasy landscapes of alien worlds and distant planes. Fantasy and sci-fi have always been my favourite genres due to that particular mix of familiar with far-from-familiar – the humanity in the inhumanity.So it’s weird then that, when my friends say that they hate worldbuilding, I find a part of myself agreeing them, and another part of myself feeling the need to write this article as a response. As a defence.

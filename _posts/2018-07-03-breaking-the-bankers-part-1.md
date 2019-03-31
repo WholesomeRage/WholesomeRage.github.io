@@ -3,14 +3,14 @@ layout: "post"
 title: Breaking the Bankers&colon; Part 1 - Private Equity
 date: 2018-07-03 20:07:00 -0700
 author: Wholesome Rage
-categories: [Economics, Politics]
+categories: [Economics, Politics, Audio]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
 contributor: false
 ---
 
-![breaking_the_bankers_p1](/assets/audio/breaking-the-bankers-1-amplified.mp3)
+{% include audio.html name="breaking-the-bankers-1-amplified.mp3" %}
 
 [Transcript follows]
 

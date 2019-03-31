@@ -8,12 +8,6 @@ excerpt_separator: <!--more-->
 
 # Contributor stuff
 contributor: true
-blurb: "Scarlet Roarke lives in a little town in Virginia you’ve probably heard of. Her current projects include drinking tea and writing fantasy/mystery topical blends in her spare time, some of which won’t suck."
-img: 
-contact:
- - link-one:
-    - name: Sample Link
-    - location: https://google.com/
 ---
 
 I care way more about genre fiction than literary fiction and I care way more about pulp entertainment than highbrow storytelling. And the specific reason I care is that I know which of the two is ultimately going to reach people, and it’s usually not the highbrow one.

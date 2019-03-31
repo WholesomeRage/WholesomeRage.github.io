@@ -2,18 +2,12 @@
 layout: "post"
 title: Ben Pearce on Editing
 date: 2018-02-13 21:02:00 -0700
-author: Ben Pearce (Pearple Prose)
+author: "Ben Pearce (Pearple Prose)"
 categories: [Guest Article, Writing Advice]
 excerpt_separator: <!--more-->
 
 # This stuff is for contributors only.
 contributor: true
-blurb: "This is a sample blurb for Pearple Prose. Please come up with a better one, kthnx."
-img: /assets/images/DUR6o5b.jpg
-contact:
- - link-one:
-    - name: FimFiction
-    - location: https://www.fimfiction.net/user/92239/Pearple+Prose
 ---
 
 So, before I get into this, I’m just going to put forward a quick concession: I’m not a professional at this. Writing – and thus editing by extension – are hobbies for me more than anything, and everything I’ve learned over the years has been through trial and error and collaboration and more than a hint of natural inclination.

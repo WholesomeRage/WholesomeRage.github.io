@@ -347,13 +347,31 @@ div.article {
         padding-right: 1em;
         text-align: justify;
 
+        div.images {
+            display: flex;
+            flex-wrap: wrap;
+            text-align: center;
+
+            p {
+                flex: 1 1 0;
+                width: 45%;
+
+                img {
+                    display: inline-flex;
+                    margin: 0 auto;
+                    height: auto;
+                    max-width: 100%;
+                }
+            }
+        }
+
         img {
             display: block;
             margin-left: auto;
             margin-right: auto;
             height: auto;
             max-width: 100%;
-            align-content: center;
+            justify-content: center;
         }
 
         iframe {
@@ -388,6 +406,17 @@ div.article {
             }
         }
     }
+}
+
+img.about-author {
+    border-radius: 50%;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+h3.about-author-header {
+    justify-content: left;
 }
 
 @media screen and (max-width : 768px) {

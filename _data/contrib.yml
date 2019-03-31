@@ -1,0 +1,23 @@
+- name: "Ross James"
+  email: WholesomeRage@outlook.com
+  website: "https://wholesomerage.github.io/"
+  image: "ross.jpg"
+  blurb: ""
+
+- name: "Ben Pearce (Pearple Prose)"
+  email: ""
+  website: "https://www.fimfiction.net/user/92239/Pearple+Prose"
+  image: "benpearce.jpg"
+  blurb: "A charming lad who tweedles about the moors. An unqualified expert in editing and wizard paper."
+
+- name: "Scarlet Roarke"
+  email: ""
+  website: ""
+  image: ""
+  blurb: "Scarlet Roarke lives in a little town in Virginia you’ve probably heard of. Her current projects include drinking tea and writing fantasy/mystery topical blends in her spare time, some of which won’t suck."
+
+- name: "Ariamaki"
+  email: ""
+  website: ""
+  image: ""
+  blurb: "Some Destiny 2 nerd idk."
