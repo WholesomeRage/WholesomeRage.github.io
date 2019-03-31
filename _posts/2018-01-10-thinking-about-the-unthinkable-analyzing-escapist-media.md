@@ -3,7 +3,7 @@ layout: "post"
 title: Thinking about the unthinkable&colon; Analyzing escapist media
 date: 2018-01-10 10:01:00 -0700
 author: Scarlet Roarke
-categories: [Writing Advice, Media, Guest Article]
+categories: [Media, Guest Article]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
