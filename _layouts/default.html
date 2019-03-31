@@ -28,7 +28,7 @@
         <nav>
             <div>
                 <div>
-                    <h1>wholesome<strong>rage</strong></h1>
+                    <h1><a href="/" style="text-decoration: none; color: #f3cd49;">wholesome<strong>rage</strong></a></h1>
                     <span>
                         {% for item in site.data.navigation %}
                         <span>
@@ -43,9 +43,11 @@
                         <input type="checkbox" id="show-menu" role="button">
                         <span class="dropdown" id="menu">
                             <span>
+                                <form action="/search.html" style="margin-bottom: 0;">
                                 <div class="dropdown-search">
                                     <input type="text" id="tipue_search_input" name="q" placeholder="Search articles ...">
                                 </div>
+                                </form>
                             </span>
                             {% for item in site.data.navigation %}
                             <span>
