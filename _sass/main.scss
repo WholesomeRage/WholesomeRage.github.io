@@ -365,6 +365,16 @@ div.article {
     }
 }
 
+@media screen and (max-width : 768px) {
+    div.article {
+        div.body {
+            width: 100%;
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+}
+
 blockquote {
     font-style: italic;
     border-left: 3px solid #ccc;
