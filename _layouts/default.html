@@ -38,6 +38,34 @@
                         </span>
                         {% endfor %}
                     </span>
+                    <span class="hamburger">
+                        <label for="show-menu" class="show-menu"><i class="fas fa-bars" style="color: #f3cd49; font-size: 16px;"></i></label>
+                        <input type="checkbox" id="show-menu" role="button">
+                        <span class="dropdown" id="menu">
+                            <span>
+                                <div class="dropdown-search">
+                                    <input type="text" id="tipue_search_input" name="q" placeholder="Search articles ...">
+                                </div>
+                            </span>
+                            {% for item in site.data.navigation %}
+                            <span>
+                                <a href="{{ item.link }}">
+                                    {{ item.name }}
+                                </a>
+                            </span>
+                            {% endfor %}
+                            <span>
+                                <p>Categories:</p>
+                                <ul>
+                                    {% for category in site.categories %}
+                                        <li>
+                                                <a class="category-link" href="{{ site.baseurl }}/category.html#{{ category[0] | slugify }}">{{ category | first }}</a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </span>
+                        </span>
+                    </span>
                 </div>
             </div>
         </nav>
@@ -47,7 +75,7 @@
         
         <footer>
             <div class="container">
-                &copy; 2019 Wholesome Rage | <a href="#">Back to top</a>
+                &copy; 2019 Wholesome Rage | <a href="<a href="https://www.patreon.com/WholesomeRage">Patreon</a> | <a href="#">Back to top</a>
             </div>
         </footer>
     </body>

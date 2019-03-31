@@ -3,7 +3,7 @@ layout: "default"
 ---
 
 <div class="row">
-    <div class="eight columns">
+    <div class="eight columns home-article-list">
         <div class="article-list">
             {% for post in paginator.posts %}
                 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -27,15 +27,11 @@ layout: "default"
             {% endif %}
         </div>
     </div>
-    <div class="four columns">
+    <div class="four columns sidebar">
         <form action="/search.html" style="margin-top: 5rem;">
-            <div class="row">
-                <div class="nine columns">
-                    <input class="u-full-width" type="text" id="tipue_search_input" name="q" placeholder="Search articles ...">
-                </div>
-                <div clas="three columns">
-                    <button type="submit" style="float: right;"><i class="fas fa-search"></i></button>
-                </div>
+            <div class="search-wrap">
+                <input type="text" id="tipue_search_input" name="q" placeholder="Search articles ...">
+                <button type="submit"><i class="fas fa-search"></i></button>
             </div>
         </form>
         <hr>
@@ -50,7 +46,7 @@ layout: "default"
                 <tbody>
                         {% for category in site.categories %}
                         <tr>
-                            <td><a class="category-link" href="{{ site.baseurl }}/category.html#{{ category[0] | slugify }}">{{ category | first }}</td>
+                            <td><a class="category-link" href="{{ site.baseurl }}/category.html#{{ category[0] | slugify }}">{{ category | first }}</a></td>
                             <td>{{ category | last | size }}</td>
                         </tr>
                     {% endfor %}
