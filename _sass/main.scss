@@ -50,6 +50,12 @@ nav > div > div > h1 > strong {
     font-weight: 700;
 }
 
+@media screen and (max-width : 550px) {
+    nav > div > div > h1 {
+        font-size: 25px;
+    }
+}
+
 nav > div > div > span > span > a {
     font-family: 'Montserrat';
     padding: 2rem;
@@ -72,7 +78,11 @@ nav > div > div > span > span > a:hover {
 
 @media screen and (max-width : 550px) {
     .hamburger {
-        margin-bottom: 0.5rem;
+        margin-bottom: -0.5rem;
+    }
+
+    .hamburger > .dropdown {
+        margin: 0;
     }
 }
 
@@ -105,7 +115,7 @@ nav > div > div > span > span > a:hover {
         text-decoration: none;
         color: #F3CD49;
         min-width: 100px;
-        padding: 15px;
+        padding: 10px;
     }
 
     a:hover {
@@ -120,7 +130,7 @@ nav > div > div > span > span > a:hover {
     }
 
     p {
-        padding: 15px;
+        padding: 10px;
         min-width: 100px;
         display: block;
         width: auto; 
