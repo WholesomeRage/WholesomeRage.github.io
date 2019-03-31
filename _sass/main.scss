@@ -160,9 +160,14 @@ nav > div > div > span > span > a:hover {
 }
 
 /* Generic Body Stylings */
-body {
-    font-family: 'Merriweather';
-    padding-bottom: 50px;
+.container {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    padding-bottom: 8px;
+
+    h1, h2, h3, h4, h5 {
+        font-family: 'Merriweather';
+    }
 }
 
 .category-tag {
@@ -381,6 +386,26 @@ blockquote {
     padding-left: 15px;
 }
 
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    p {
+        flex: 1 1 0;
+        width: 45%;
+    }
+
+    p:first-child {
+        padding-right: 0.5rem;
+    }
+
+    p:last-child {
+        padding-left: 0.5rem;
+        text-align: right;
+    }
+}
+
 /* Patreon and Commission Cards */
 .card-deck {
     display: -ms-flexbox;
@@ -465,11 +490,11 @@ div.search-wrap {
 /* Footer Element Stylings */
 
 footer {
-    position: fixed;
+    position: relative;
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 1rem;
     background-color: #efefef;
     text-align: center;
+    padding-top: 10px;
 }
