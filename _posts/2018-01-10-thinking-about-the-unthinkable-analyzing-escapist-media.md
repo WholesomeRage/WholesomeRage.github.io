@@ -22,11 +22,11 @@ Why? Because we turn to pulp when we want to escape. And when we escape, we are 
 
 Let’s begin with a simple admission: escapism is something we all need from time to time. It takes different forms for different people. What I use as an escape is not what others use, and vice versa. But we all feel the need to escape. And that’s nothing to feel ashamed of.
 
+<!--more-->
+
 Modern life is basically designed as a massive stress pressure cooker that will make us explode unless we let off some steam once in a while. The very things that make our modern life so “successful” – agriculture, technology, complex social and financial structures – also make it feel like actual shit. There’s a reason people move away to the country when they’re ready to retire, or make massive expeditions into the great outdoors, or become survivalists.
 
 Maybe you’re not ready to leave your air-conditioned and heated home to pursue a hunter-gatherer lifestyle though, and I don’t blame you. You most likely find your escapism in entertainment. And not just any entertainment either: entertainment that demands the least amount of your mental processing. That’s not to say that it’s entirely stupid entertainment or that it has nothing of value to offer, in fact, it’s often quite the opposite. But it doesn’t require you as the consumer to work to make it entertaining. Clean, simple fun.
-
-<!--more-->
 
 Raiding bokoblin camps in Breath of the Wild. Enjoying a good mystery with Murder on the Orient Express. Watching Soma cook the literal pants off the jerk gourmand of the week in Food Wars. Teaming up with some buddies in Overwatch or Call of Duty. All of these things are escapes of one sort or another.
 
