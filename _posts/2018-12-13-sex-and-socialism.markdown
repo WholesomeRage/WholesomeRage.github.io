@@ -3,7 +3,7 @@ layout: "post"
 title: Sex and Socialism
 date: 2018-12-13 12:12:00 -0700
 author: Wholesome Rage
-categories: [Politics]
+categories: [Politics, Media]
 excerpt_separator: <!--more-->
 
 # Contributor stuff

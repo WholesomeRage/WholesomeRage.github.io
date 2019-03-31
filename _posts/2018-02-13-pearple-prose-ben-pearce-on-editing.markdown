@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title: Pearple Prose&colon; Ben Pearce on Editing
+title: Ben Pearce on Editing
 date: 2018-02-13 21:02:00 -0700
-author: Pearple Prose
+author: Ben Pearce (Pearple Prose)
 categories: [Guest Article, Writing Advice]
 excerpt_separator: <!--more-->
 
@@ -21,6 +21,7 @@ So, before I get into this, I’m just going to put forward a quick concession: 
 But I do know editing. I’ve done a lot of it. I’ve probably edited far more words than I have actually written, at this point, because of friends like the very man who runs this website. So, I’d like to think that what I have to say has some merit. Of course, what I do might not work for you, because every writer works differently, and every editor has their area of expertise. Goodness knows there must be countless different writing circles, schools of thought, writing/editing tutorials on the internet. Try things out. See what works. I really recommend editing for your friends if you have the will or inclination; it becomes a lot easier to see mistakes in your own writing when you go back to edit in future if you’ve seen them elsewhere.
 
 On that note, let’s get stuck in.
+
 <!--more-->
 
 ***
