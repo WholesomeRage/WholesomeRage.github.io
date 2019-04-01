@@ -10,19 +10,6 @@ layout: "default"
     <div class="body">
         {{ content }}
         
-        <span class="post-nav">
-            <p>
-            {% if page.previous.url %}
-                <a class="button" href="{{ page.previous.url }}" style="overflow-wrap: break-word; padding-left: 15px; padding-right: 15px;">&laquo;&nbsp;Previous Post</a>
-            {% endif %}
-            </p>
-            <p>
-            {% if page.next.url %}
-                <a class="button" href="{{ page.next.url }}" style="overflow-wrap: break-word; padding-left: 15px; padding-right: 15px;">Next Post&nbsp;&raquo;</a>
-            {% endif %}
-            </p>
-        </span>
-
         {% if page.contributor == true %}
             {% for author in site.data.contrib %}
                 {% if author.name == page.author %}
@@ -60,5 +47,19 @@ layout: "default"
                 {% endif %}
             {% endfor %}
         {% endif %}
+
+        <hr>
+        <span class="post-nav">
+            <p>
+            {% if page.previous.url %}
+                <a class="button" href="{{ page.previous.url }}" style="overflow-wrap: break-word; padding-left: 15px; padding-right: 15px;">&laquo;&nbsp;Previous Post</a>
+            {% endif %}
+            </p>
+            <p>
+            {% if page.next.url %}
+                <a class="button" href="{{ page.next.url }}" style="overflow-wrap: break-word; padding-left: 15px; padding-right: 15px;">Next Post&nbsp;&raquo;</a>
+            {% endif %}
+            </p>
+        </span>
     </div>
 </div>

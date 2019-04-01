@@ -272,7 +272,7 @@ div.category-page {
         margin-bottom: 2em;
         padding-left: 1em;
         padding-right: 1em;
-        text-align: justify;
+        text-align: left;
 
         a {
             text-decoration: none;
@@ -295,6 +295,7 @@ div.category-page {
 
         h5 {
             font-size: 1.5rem;
+            font-style: italic;
         }
     }
 }
