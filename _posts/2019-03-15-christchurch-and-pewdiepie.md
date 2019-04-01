@@ -14,6 +14,8 @@ So a mass shooting in New Zealand occurs. 49 dead, 20 seriously wounded by right
 
 So of course a senator from my state is making the news with their official statement.
 
+<!--more-->
+
 ![image1]()
 
 ![image2]()
