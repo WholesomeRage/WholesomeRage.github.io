@@ -2,7 +2,7 @@
 layout: about
 title: About
 whois: Ross James
-img: journalross-e1527606159689.jpg
+img: contributors/ross.jpg
 email: kaironaut@icloud.com
 permalink: /about/
 ---
