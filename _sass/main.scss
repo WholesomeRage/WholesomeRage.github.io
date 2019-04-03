@@ -525,6 +525,7 @@ div.cardrow {
         border-radius: 5px;
         text-align: center;
         padding: 3rem;
+        min-height: 30rem;
 
         div.card-content {
             position: relative;
@@ -582,4 +583,13 @@ footer {
     padding-top: 10px;
     padding-bottom: -5px;
     margin-top: 4.5rem;
+
+    a {
+        text-decoration: none;
+        color: #5A6297;
+    }
+
+    a:hover {
+        color: #DAAF1A;
+    }
 }
