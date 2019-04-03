@@ -303,9 +303,10 @@ div.category-page {
 /* About Page Styling */ 
 
 img.about {
+    object-fit: cover;
     border-radius: 50%;
-    max-width: 100%;
-    display: block;
+    width: 300px;
+    height: 300px;
 }
 
 h1.about {
@@ -462,39 +463,6 @@ blockquote {
     }
 }
 
-/* Patreon and Commission Cards */
-.card-deck {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column
-}
-
-.card-deck .card {
-    margin-bottom: 15px
-}
-
-@media (min-width:576px) {
-    .card-deck {
-        -ms-flex-flow: row wrap;
-        flex-flow: row wrap;
-        margin-right: -15px;
-        margin-left: -15px
-    }
-
-    .card-deck .card {
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex: 1 0 0%;
-        flex: 1 0 0%;
-        -ms-flex-direction: column;
-        flex-direction: column;
-        margin-right: 15px;
-        margin-bottom: 0;
-        margin-left: 15px
-    }
-}
-
 /* Sidebar stylings for mobile viewing */
 @media screen and (max-width: 768px) {
     .sidebar {
@@ -543,8 +511,67 @@ div.search-wrap {
     }
 }
 
-/* Footer Element Stylings */
+/* Commission Page Cards */
+div.cardrow {
+    max-width: 95%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 1rem;
 
+    div.card {
+        border: 1px solid #5A6297;
+        box-shadow: 5px 5px 5px lightgrey;
+        border-radius: 5px;
+
+        div.card-content {
+            padding: 3rem;
+
+            h1 {
+                color: #3F456A;
+                text-align: center;
+                font-size: 24px;
+                font-family: 'Montserrat';
+                font-variant: small-caps;
+            }
+
+            h2 {
+                text-align: center;
+                font-size: 48px;
+                color: #5A6297;
+
+                strong {
+                    font-size: 16px;
+                    font-family: 'Montserrat';
+                    font-weight: 300;
+                    color: grey;
+                }
+            }
+
+            p {
+                text-align: center;
+            }
+        }
+    }
+}
+
+div.commission-desc {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+
+    p.diminish {
+        font-size: 12px;
+        font-style: italic;
+        margin-top: -1.5rem;
+    }
+}
+
+/* Footer Element Stylings */
 footer {
     position: relative;
     right: 0;
@@ -553,4 +580,6 @@ footer {
     background-color: #efefef;
     text-align: center;
     padding-top: 10px;
+    padding-bottom: -5px;
+    margin-top: 4.5rem;
 }

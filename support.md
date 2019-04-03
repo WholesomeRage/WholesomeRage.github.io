@@ -1,4 +1,0 @@
----
-layout: support
-title: Support
----

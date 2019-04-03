@@ -44,7 +44,7 @@ layout: "default"
                     </tr>
                 </thead>
                 <tbody>
-                        {% for category in site.categories %}
+                    {% for category in site.categories %}
                         <tr>
                             <td><a class="category-link" href="{{ site.baseurl }}/category.html#{{ category[0] | slugify }}">{{ category | first }}</a></td>
                             <td>{{ category | last | size }}</td>
@@ -52,6 +52,11 @@ layout: "default"
                     {% endfor %}
                 </tbody>
             </table>
+        </center>
+        <center>
+            <a href="https://www.patreon.com/WholesomeRage">
+                <img src="/assets/images/become_a_patron_button@2x.png" style="width: 200px; height: auto;">
+            </a>
         </center>
     </div>
 </div>

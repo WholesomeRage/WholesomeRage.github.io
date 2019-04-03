@@ -1,8 +1,8 @@
 - name: Home
   link: /
 
-- name: Support
-  link: /support/
+- name: Commissions
+  link: /commissions/
 
 - name: About
   link: /about/
