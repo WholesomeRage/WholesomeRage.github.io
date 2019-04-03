@@ -70,6 +70,8 @@ If you're gonna feature a new author, please make sure their info is put inside 
 
 After you've taken care of business with the YAML header, you can start writing. Text must be formatted in [Markdown](https://commonmark.org/help/). You should already be familiar with it, since it's the same syntax you use on Discord. Most everything in the guide I just linked can be utilized. 
 
+Please make sure all paragraphs are separated by a newline, e.g. every paragraph needs a space between it. This is so that the Markdown parser can format paragraphs correctly.
+
 Once you've finished writing, save the Markdown file in the `_posts` folder. **Your document's filename must be in the following format: `YEAR-MONTH-DAY-name-of-post.md`**. This is crucial. If the filename is not formatted like this, Jekyll will throw up errors and you won't be able to see your article. 
 
 ## Some special things
