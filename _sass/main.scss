@@ -523,20 +523,20 @@ div.cardrow {
         border: 1px solid #5A6297;
         box-shadow: 5px 5px 5px lightgrey;
         border-radius: 5px;
+        text-align: center;
+        padding: 3rem;
 
         div.card-content {
-            padding: 3rem;
+            position: relative;
 
             h1 {
                 color: #3F456A;
-                text-align: center;
                 font-size: 24px;
                 font-family: 'Montserrat';
                 font-variant: small-caps;
             }
 
             h2 {
-                text-align: center;
                 font-size: 48px;
                 color: #5A6297;
 
@@ -547,10 +547,10 @@ div.cardrow {
                     color: grey;
                 }
             }
+        }
 
-            p {
-                text-align: center;
-            }
+        div.card-footer {
+            bottom: 0;
         }
     }
 }
