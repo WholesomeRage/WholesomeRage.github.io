@@ -64,7 +64,7 @@ If an article is by a Guest Writer, it will need two things:
 
 This tells Jekyll to format the article with an `About The Author` section at the bottom. It'll try and match the author to any preexisting authors listed in `_data/contributors.yml`, and display the information listed there.
 
-If you're gonna feature a new author, please make sure their info is put inside the `contributors.yml` file in the same format as the rest of the entries. That way Jekyll knows who to display. 
+If you're gonna feature a new author, please make sure their info is put inside the `contributors.yml` file in the same format as the rest of the entries. If the author provided a picture of them to use on the site, make sure that image is placed in the `assets/images/contributors` folder. That way Jekyll knows who to display. 
 
 ### Writing the actual article
 
