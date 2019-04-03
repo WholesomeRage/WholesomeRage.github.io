@@ -33,7 +33,7 @@ The `date` field must be formatted exactly as shown above (`YEAR-MONTH-DAY HOUR:
 
 ### Categories
 
-I implore that you always tag your articles with an appropriate category (even multiple appropriate categories). Some of the ones currently available are:
+I insist that you always tag your articles with an appropriate category (even multiple appropriate categories). This is so that users won't have to dig into your site just to find an article, since they'll all be accessible from the Categories Index page. Some of the ones currently available are:
 
 ```
 Writing Advice
