@@ -115,5 +115,3 @@ If the thing you want is on YouTube, just grab the embed code from the video's s
 ## Questions/Concerns?
 
 Just notify me (Figments) if you're having any trouble and I'll help in any way I can. You know how to reach me.
-
-This is a test to see if I can access push functionality for the site.
