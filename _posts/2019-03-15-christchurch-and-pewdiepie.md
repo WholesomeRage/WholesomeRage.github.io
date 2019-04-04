@@ -16,13 +16,13 @@ So of course a senator from my state is making the news with their official stat
 
 <!--more-->
 
-![image1]()
+![image1](/assets/images/christchurch/australianletter.jpg)
 
-![image2]()
+![image2](/assets/images/christchurch/anningtweet.png)
 
-### The shooter livestreamed himself saying “Subscribe to PewDiePie”, which made this UKIP tweet from just *four days ago* age faster than anything else I’ve ever seen.
+The shooter livestreamed himself saying “Subscribe to PewDiePie”, which made this UKIP tweet from just *four days ago* age faster than anything else I’ve ever seen.
 
-![image3]()
+![image3](/assets/images/christchurch/subtopewds.png)
 
 [I thought about updating the violence article, but it’d keep me too busy, and make me too sad.](https://wholesomerage.com/blog/316)
 
@@ -32,19 +32,21 @@ These people are following PewDiePie. I mean, a bit of this is a joke like blami
 
 Here’s an abridged of PewDiePie’s “following” list:
 
+![image3.5](/assets/images/christchurch/pewdsfollows.png)
+
 Who are these people that are inspiring PewDiePie?
 
 ### Molyneux
 
-![image4]()
+![image4](/assets/images/christchurch/moly1.png)
 
-![image5]()
+![image5](/assets/images/christchurch/moly2.png)
 
-![image6]()
+![image6](/assets/images/christchurch/moly3.png)
 
 ### Lauren Southern has videos in the hundreds-of-thousands of views explaining the theories that are cited by both the Christchurch and the Tree of Life shooters:
 
-![image7]()
+![image7](/assets/images/christchurch/greatreplacementvid.png)
 
 [She actually messed up the paperwork on an Australian visa a while ago](https://www.sbs.com.au/news/visa-approved-for-canadian-who-warns-australian-way-of-life-is-under-threat). From the article:
 
@@ -82,13 +84,13 @@ I’ll summarize by saying it was one of his fans that did the [Quebec mosque s
 
 As I wrote this, another person PewDiePie follows just tweeted this:
 
-![image11]()
+![image11](/assets/images/christchurch/pewdsfollowertweet.png)
 
 PewDiePie pleads innocence, even when he’s crossposting and advertizing [white supremacist Youtube channels](https://www.vox.com/2018/12/13/18136253/pewdiepie-vs-tseries-links-to-white-supremacist-alt-right-redpill)
 
 This is the creator with the largest subscriber count on Youtube, who enjoys official corporate sponsorship.
 
-![image12]()
+![image12](/assets/images/christchurch/pewdsfollowcount.png)
 
 This isn’t a condemnation of PewDiePie, so much as to emphasize something very important:
 
