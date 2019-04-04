@@ -74,11 +74,11 @@ Paul hosts Prison Planet, an InfoWars sister site. He shills Brain Force Plus pi
 
 ### Ben Shapiro
 
-![image8]()
+![image8](/assets/images/christchurch/Image8.jpg)
 
-![image9]()
+![image9](/assets/images/christchurch/Image9.jpg)
 
-![image10]()
+![image10](/assets/images/christchurch/Image10.jpg)
 
 I’ll summarize by saying it was one of his fans that did the [Quebec mosque shooting](https://montrealgazette.com/news/quebec/i-didnt-incite-mosque-shooter-conservative-pundit-ben-shapiro-insists). Rarified company.
 
