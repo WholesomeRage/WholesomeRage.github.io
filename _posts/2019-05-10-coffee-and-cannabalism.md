@@ -10,8 +10,6 @@ excerpt_separator: <!--more-->
 contributor: false
 ---
 
-**COFFEE AND CANNABALISM** \
- \
 One of the hardest parts of weekly updates is coming up with ideas every week. Writing advice especially: It’s hard to know what you know. An advantage of taking editing commissions, then, is finding out what other people don’t know when I have to explain things.
 
 This led to me having to explain two things that I’ve been careful of in my writing, but never actually had to think about before. Which probably means it’s something I’ve never seen taught, and I’m not plagiarizing anyone by giving this advice.
