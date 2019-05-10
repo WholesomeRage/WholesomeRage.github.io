@@ -29,7 +29,7 @@ This makes life a little easier, as a writer. It means that rather than thinking
 
 How a character acts and reacts is far more important than what they’re acting and reacting to. So it means you’re free to try to think of ways to get interesting responses out of your characters, which makes the actual writing process a lot easier as well as making for a stronger story.
 
-So it means you shouldn’t think of a story in terms of _what _happens, but in terms of what it _means _for things to happen. 
+So it means you shouldn’t think of a story in terms of _what_ happens, but in terms of what it _means_ for things to happen. 
 
 There's a lot of overlap, but there’s an example I’d like to use to explain the difference from one of my very old stories now.
 
@@ -72,6 +72,6 @@ If you mention the unique and exotic diseases you can only get from eating human
 
 Because now they can relate their own fear of the consequences onto the character’s response of not wanting to do it.
 
-The audience is distanced in a story. So that means you need to give them reasonable reasons to explain emotional reactions, or else they’re going to get frustrated with a character. But if you _give _the audience those reasonable reasons, then they’re going to actually relate to that character more and either respect their decision, or be impressed by their ability to overcome it and ‘suck it up’.
+The audience is distanced in a story. So that means you need to give them reasonable reasons to explain emotional reactions, or else they’re going to get frustrated with a character. But if you _give_ the audience those reasonable reasons, then they’re going to actually relate to that character more and either respect their decision, or be impressed by their ability to overcome it and ‘suck it up’.
 
 That being said, that _also_ means having a character follow emotional responses which aren’t reasonable, but make sense to the character, is a very good way to make them unlikable in a subtle way. Knowing quiet and subtle ways to make someone unlikable without ever actually doing anything overtly negative might be a useful tool to have... 
