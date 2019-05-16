@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: Cannabalism and Carbon Costs
-date: 2019-05-10 16:34:00 +1000
+date: 2019-05-17 16:34:00 +1000
 author: Wholesome Rage
 categories: [Politics, Economics]
 excerpt_separator: <!--more-->
