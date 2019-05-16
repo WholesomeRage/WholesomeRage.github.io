@@ -12,13 +12,13 @@ contributor: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89OP78l9oF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I just saw _Annihilation _and, I must profess, I didn’t like it very much — except for the last fifteen minutes or so, and the bear. Aside from those parts, though, it made me think again about the problem of pretension in media.
+I just saw _Annihilation_ and, I must profess, I didn’t like it very much — except for the last fifteen minutes or so, and the bear. Aside from those parts, though, it made me think again about the problem of pretension in media.
 
 Let me be clear: my criticism is not against media trying to ‘be smart’, or media that makes the viewer work to analyze what it media means. Not at all. I value media trying to say something more than anything else. In fact, I would even argue that it is even more important for a movie to try to say something than it is for it to entertain.
 
 <!--more-->
 
-For instance, if being entertaining was the primary objective of media,_ The Room _would be a fantastic movie. We can say that _The Room_ is a terrible movie while also being entertained by it, so we need to understand what other criteria we are thinking about when we call a movie ‘good’ or ‘bad’.
+For instance, if being entertaining was the primary objective of media, _The Room_ would be a fantastic movie. We can say that _The Room_ is a terrible movie while also being entertained by it, so we need to understand what other criteria we are thinking about when we call a movie ‘good’ or ‘bad’.
 
 There is a specific danger of pretension though, of appearing ‘smarter’ than the ideas in your media actually deliver. _Annihilation_, I find, is guilty of this. The danger is that when your meaning isn’t clear, when your story isn’t well delivered, the criticism doesn’t get directed at the work; It makes your audience feel like they simply weren’t smart enough to understand it, that it went above their head.
 
@@ -40,7 +40,7 @@ You see broader themes of duality, echoed by lines in the movie like ‘that Jun
 
 You can reach your own conclusions on that, but the point is, when a movie is well crafted and well thought out, watching it is simple and the analysis is complex. The more you understand about it, the more questions you think to ask. All throughout there’s this solid bedrock of understanding what you’ve actually watched, knowing what’s happened. Understanding who did what, then figuring out why.
 
-Movies like _Annihilation _are different, because the analysis is forced to start at trying to understand what even happened at the most superficial level.
+Movies like _Annihilation_ are different, because the analysis is forced to start at trying to understand what even happened at the most superficial level.
 
 The ending of _Annihilation_ is trippy as hell, and my favourite part of the movie. Most of the movie’s most interesting ideas are set up and executed in these last moments. What do they actually mean, though? The movie begs you to think hard on it, on the significance of it, but so much of it you’re forced to extrapolate on your own. Because the movie doesn’t give you enough to work with in the first place.
 
@@ -56,7 +56,7 @@ Is it the dementia-addled husband at the end of the movie, or his clone? If it�
 
 Why didn’t he just try to kill it? Because maybe if it was learning, if he failed it’d have learned how to kill, and teaching it to kill would be bad.
 
-Those are interesting ideas! Probably. Little of these conclusions are made explicit, few of these intentions are in the media itself. In fact, even the conclusion that this was him is tenuous. It’s unclear if it’s him that committed suicide, or his clone, simply because the next time we see a clone, it’s bursting another person and there’s a weird galactic eye thing, and… why did _any _of this happen, again?  What did any of that mean?
+Those are interesting ideas! Probably. Little of these conclusions are made explicit, few of these intentions are in the media itself. In fact, even the conclusion that this was him is tenuous. It’s unclear if it’s him that committed suicide, or his clone, simply because the next time we see a clone, it’s bursting another person and there’s a weird galactic eye thing, and… why did _any_ of this happen, again?  What did any of that mean?
 
 Why were there more than one of these things, and when did it happen? Why did the first one wander out of the bubble as a clone of the male love interest, but the second one stayed behind? What was the inciting action? Are they separate, or do they share memories since they appear to be psychic, or…?
 
@@ -64,7 +64,7 @@ If you haven’t seen the movie, this isn’t shown, and it’s hardly hinted at
 
 How can you draw a deeper meaning from the puzzle if the pieces are intentionally hidden from you?
 
-The most glaring example of this meaningless obtusiveness I can think of from _Annihilation _is the woman that cut herself to feel more alive. Her ‘death’ is giving a short speech about the nature of the phenomenon making everything part of everything else, walking off screen, and never being seen again despite only being out of site for a literal, non-hyperbolic second.
+The most glaring example of this meaningless obtusiveness I can think of from _Annihilation_ is the woman that cut herself to feel more alive. Her ‘death’ is giving a short speech about the nature of the phenomenon making everything part of everything else, walking off screen, and never being seen again despite only being out of site for a literal, non-hyperbolic second.
 
 A friend of mine made a very interesting conclusion from this scene: it was was willingly giving in, a sort of living-suicide, and she became part of the natural environment. We aren’t shown this process because it’s meant to be happy, as opposed to the horror of the other entities of the bubble.
 
@@ -138,15 +138,15 @@ Not to put too fine a point on it, this is utter bullshit.
 
 The problems with this approach are twofold: first, it severely limits your audience. Second, it makes a false dichotomy, implying that those two things are mutually exclusive.
 
-Take, for instance, _Zootopia_. _Zootopia _is one of the smartest, most well-constructed and well-scripted movies ever made. As an example, the movie’s usage of the recording carrot pen. The first time it’s used is a brilliant sight-gag — catching Nick with his own words. The second time it’s used is a brilliant callback — reuniting Nick and Judy to play an apology back. Most movies would stop there, and I thought that alone was a very nice touch.
+Take, for instance, _Zootopia_. _Zootopia_ is one of the smartest, most well-constructed and well-scripted movies ever made. As an example, the movie’s usage of the recording carrot pen. The first time it’s used is a brilliant sight-gag — catching Nick with his own words. The second time it’s used is a brilliant callback — reuniting Nick and Judy to play an apology back. Most movies would stop there, and I thought that alone was a very nice touch.
 
 The movie then ends with a third beat of this joke when that pen’s used on the revealed antagonist. I was totally not expecting that. As a writer, when I see the ‘brick’ in a brick joke land like that, I mentally write it out of the movie as having served its purpose. That extra note, that final use of it in such an unexpected way, was such a small touch that absolutely blew me away with the brilliance of the writers.
 
 It’s such a small thing to have stuck with me, but it was so elegantly done. It was polished. I haven’t actually watched _Zootopia _more than once, and that’s to its credit: Even now, 2 years later, I remember it _that _clearly.
 
-_Zootopia _was comedic, it was action packed, it was intended for children. All things that discredit it from being capable of ‘causing personal growth’ under the claimed dichotomy. If it’s intended for children, how can it require the level of effort needed to commit to personal growth?
+_Zootopia_ was comedic, it was action packed, it was intended for children. All things that discredit it from being capable of ‘causing personal growth’ under the claimed dichotomy. If it’s intended for children, how can it require the level of effort needed to commit to personal growth?
 
-But _Zootopia _had very interesting, very honest discussions about the nature of discrimination. It was frank and honest and it approached the subject in animal metaphors that made complete sense in-universe — of course ‘prey’ animals would feel threatened by predators. And, if they’re the minority, why wouldn’t it make sense to muzzle them when they were a threat?
+But _Zootopia_ had very interesting, very honest discussions about the nature of discrimination. It was frank and honest and it approached the subject in animal metaphors that made complete sense in-universe — of course ‘prey’ animals would feel threatened by predators. And, if they’re the minority, why wouldn’t it make sense to muzzle them when they were a threat?
 
 Of course predators would feel and lash out against this discrimination. They weren’t doing anything wrong, of course they weren’t. And others’ rights were being put above theirs for something they didn’t do.
 
@@ -158,7 +158,7 @@ If that seems like it’s looking too far into it, consider why the movie about 
 
 And there again we see what we mean when I say that analysis thrives on rock-solid details. That’s the kind of observation you can only make when a piece of media is consistent and clear all throughout. It makes the results of your decisions shine through with purpose.
 
-Fans of _Annihilation _say that the movie is simply too slow and too smart for a mainstream audience, and that’s what dooms the movie. This renders it immune to the criticism that it’s slow because it doesn’t interweave character moments and plot moments but keeps the two seperate, which would have made the movie denser and more engaging as well as reinforcing both elements — it is instead said that it’s atmospheric, it’s cerebral, it’s giving you time to think about how profound it is.
+Fans of _Annihilation_ say that the movie is simply too slow and too smart for a mainstream audience, and that’s what dooms the movie. This renders it immune to the criticism that it’s slow because it doesn’t interweave character moments and plot moments but keeps the two seperate, which would have made the movie denser and more engaging as well as reinforcing both elements — it is instead said that it’s atmospheric, it’s cerebral, it’s giving you time to think about how profound it is.
 
 The arguments that it seems smart simply because it obfuscates any of what it means is met with the notion that you just need to think harder about it, a movie can’t be expected “to spoon feed you”, in one person’s words. But that just means that what analysis you do get out of it has to start with arguing what you think actually happened before you can start figuring out what it means if it happened that way.
 
