@@ -3,7 +3,7 @@ layout: "post"
 title: Life Expectancy of an American Zoomer
 date: 2019-05-23 20:12:00 -0700
 author: Wholesome Rage
-categories: [Politics], [Fiction]
+categories: [Politics, Fiction]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
