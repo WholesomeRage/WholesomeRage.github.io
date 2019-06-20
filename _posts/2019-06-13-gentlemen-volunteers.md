@@ -54,3 +54,29 @@ This wasn’t true everywhere, though.
 On the other side of the battlefield, Napoleon's army was led by the working class who’d risen through the ranks, and managed to take over all of Europe in a few short years under his superior generals. 
 
 France had its revolution for liberty, equality and fraternity - and a national public library since 1692. In fact, the French public library was not only unharmed by the revolution, but was flooded with works seized from the private libraries of its nobility, and later by Napoleon himself during his conquests, trying to ensure that a copy of every book would be available to the French citizens.
+
+Meanwhile in England, as late as the 1800s, men named Thomas Mitchell -- who found out he was kind of related to a baron already serving -- and John FitzMaurice -- who had been recommended to Wellington by an Irish judge -- were made officers of the Duke of Wellington's rifle regiments, his core of elite light infantry, after only minimal experience in the field, because the nobility were seen as the only ones qualified to be leaders of men.
+
+Ultimately, France lost the war, but England's problem of only letting the wealthy be educated - and thus, the only ones qualified to lead, regardless of what they were educated in - has been immortalized in a very British way. To acknowledge the catastrophic waste of life that was their imperial folly, we wre given escathing musical theatre.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSGWoXDFM64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We all remember the first bit. But it's burying the lede:
+
+_When I can tell at sight a Mauser rifle from a javelin,_
+_When such affairs as sorties and surprises I'm more wary at,_
+_And when I know precisely what is meant by "commissariat",_
+_When I have learnt what progress has been made in modern gunnery,_
+_When I know more of tactics than a novice in a nunnery –_
+_In short, when I've a smattering of elemental strategy – (bothered for a rhyme)_
+_You'll say a better Major-General has never sat a gee.e_
+_For my military knowledge, though I'm plucky and adventury,_
+_Has only been brought down to the beginning of the century;_
+_But still, in matters vegetable, animal, and mineral,_
+_I am the very model of a modern Major-General._
+
+The self-reinforcing effects of this kind of command structure meant that light infantry doctrine was entirely forgotten after the Napoleonic war. A return to line infantry and trench warfare would be complete by the 1850s, emphasizing that the lower classes were such unruly scum that it was the only way to make any individual private have value.
+
+It wouldn't be until the First World War that the implications of this could no longer be ignored.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vH3-Gt7mgyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
