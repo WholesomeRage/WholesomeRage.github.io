@@ -15,7 +15,7 @@ There’s a really funny thing about economic conferences. They just let you in,
 I attended the 2019 Inequality of Opportunity conference in Brisbane. I paid the entry fee, registered under Wholesome Rage as my company name, and they just… let me in. There I was, some random blogger, in a room full of people either with doctorates in economics or political science, or actively getting one. Many were presenting their papers.
 
 A lot of fun. Absolutely terrifying. 
-
+<!--more-->
 I spent most of the last two months cramming economics textbooks and lectures in preparation. I knew the difference between a Nash equilibrium and a market equilibrium, a Phillip’s curve from a Laffer curve, a Giffen good from a Veblen good. 
 
 The problem was I had a major conflict in my soul. One, to not be found out by these people as wholly underqualified to be there. Two, to ask as many questions as possible. 
