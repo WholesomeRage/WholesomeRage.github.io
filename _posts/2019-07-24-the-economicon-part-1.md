@@ -3,7 +3,7 @@ layout: "post"
 title: The Economicon, Part 1
 date: 2019-07-24 20:12:00 -0700
 author: Wholesome Rage
-categories: [Economics, history]
+categories: [Economics, History]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
