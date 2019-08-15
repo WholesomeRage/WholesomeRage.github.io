@@ -3,7 +3,7 @@ layout: "post"
 title: Five Philosophies For Mastering Game Mastering.
 date: 2017-12-20 16:12:00 -0700
 author: Wholesome Rage
-categories: [Writing Advice]
+categories: [Writing Advice, Gaming]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
