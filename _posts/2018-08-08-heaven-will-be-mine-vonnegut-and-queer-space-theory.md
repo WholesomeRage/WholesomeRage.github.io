@@ -3,7 +3,7 @@ layout: "post"
 title: Heaven Will Be Mine&colon; Vonnegut and Queer Space Theory
 date: 2018-08-08 10:08:00 -0700
 author: Wholesome Rage
-categories: [Writing Advice, Media]
+categories: [Writing Advice, Media, Gaming]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
