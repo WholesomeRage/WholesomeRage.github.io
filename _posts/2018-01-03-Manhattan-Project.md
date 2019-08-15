@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: The history of the Manhattan Project in 4,000 words and one footnote
-date: 2017-12-13 21:12:00 -0700
+date: 2018-01-03 21:12:00 -0700
 author: Wholesome Rage
 categories: [History]
 excerpt_separator: <!--more-->
