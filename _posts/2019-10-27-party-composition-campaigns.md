@@ -3,7 +3,7 @@ layout: "post"
 title: Party Composition Campaigns
 date: 2019-07-10 18:12:00 -0700
 author: Wholesome Rage
-categories: [Writing Advice]
+categories: [Writing Advice, Gaming]
 excerpt_separator: <!--more-->
 
 # Contributor stuff
