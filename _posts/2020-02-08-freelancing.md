@@ -17,6 +17,7 @@ I'm no expert, or course. I can only speak from my own experiences.
 I've been there. Being an introvert who hated working retail, I did everything I could to make money with my writing. But while I searched the internet for more information, every article I found gave a vague summary of sites that paid for writing, and most of the time these articles focused mainly on how much those sites paid. My goal is to tell you what I wish someone had told me when I started out.
 
 Let's start with the content mills.
+<!--more-->
 
 Content mills are probably where you'll start. They're the easiest to join and also the most straightforward. Overall these sites have the same business model. Clients who want content -- articles, blog posts, listicles, etc -- go to these websites. The websites attract authors to sign up, and the website acts as a mediary party between clients and authors. The price for content and the price paid for content is set by the website. Oh, and attempting to make direct contact with a client goes against the TOS of almost all these sites and can get an author banned.
 
