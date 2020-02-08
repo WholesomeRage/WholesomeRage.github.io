@@ -27,7 +27,7 @@ Another thing to keep in mind: content mills are for ghost writers. If you're tr
 
 Now that we got logistics out of the way, here are the content mills I've worked with over the years and an overview of my experiences with each one.
 
-##iWriter
+## iWriter
 I'm not gonna sugarcoat it. iWriter is perhaps the lowest of the low. 
 
 iWriter, like many of these websites, stratify their writers. At the lowest you have basic. Then there are premium writers, elite writers, and elite plus writers. Every time a writer submits an article, a client rates it from 1 to 5 stars before deciding to reject or accept it. In order for a writer to make it to the next tier they have to sustain a high star rating and reach a minimum number of ratings.
@@ -89,7 +89,7 @@ Just to make sure, I made a second account with a different email. Just like tha
 
 I was so disgusted I closed the page and never looked back.
 
-##Textbroker
+## Textbroker
 
 When it comes to content mills, you can definitely do worse than Textbroker (see above). Just like iWriter, Textbroker separates it's authors into a hierarchy, with those writers with high ratings given access to higher paying assignments. Writers are rated with stars. Unlike iWriter, authors start in the middle with three stars.
 
@@ -115,7 +115,7 @@ But for some people that's just not possible due to time restrictions or monetar
 
 The only people getting rich off textbroker are the clients and the website owners. I'll say that much.
 
-##Verblio
+## Verblio
 
 Verblio is both the most unique amongst the content mills and the most likely to provide a living. They pay the most, by far, but that also means that they expect a much higher standard of writing. 
 
@@ -174,7 +174,7 @@ Bring out your best and you'll do well.
 Content mills aren't the only places I've written for, so I would like to briefly talk about some other experiences I've had working for some other websites.
 
 
-##Freelancer
+## Freelancer
 
 I hated being a writer in Freelancer.
 
@@ -212,7 +212,7 @@ For the record, I haven't tried other freelance sites like Upwork. Maybe they're
 
 
 
-##Transcription
+## Transcription
 
 Transcription sites like Rev and TranscribeMe hire typists to listen to an interview or speech or focus group and write down what people are saying. There are style guides to keep in mind, as well as distinctions like Verbatim and Non-Verbatim, but once you get the hang of transcription it's a nice way to make money.
 
