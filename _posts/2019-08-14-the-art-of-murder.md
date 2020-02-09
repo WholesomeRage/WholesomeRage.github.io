@@ -273,7 +273,7 @@ Unheard is an interesting mystery puzzle game where you have to solve a crime. Y
 
 This sounded like a very cool idea, until I played it and realized that essentially this was problem solving by stenography. Most of the challenge of solving the puzzles came from listening to multiple clips of the same 8 minutes of audio over and over again, as all the clues were given explicitly in dialogue. 
 
-If you just listened to the puzzle long enough, in enough places, and you wrote down _what _happened _when_, it was trivially easy to solve. 
+If you just listened to the puzzle long enough, in enough places, and you wrote down _what happened when_, it was trivially easy to solve. 
 
 Unheard seems like it would pair well with the lesson learned from the Sexy Brutale again, but the Sexy Brutale’s puzzles were _short_. Often knowing the gist of an answer was enough to solve the whole thing, which isn’t true for Unheard.
 
