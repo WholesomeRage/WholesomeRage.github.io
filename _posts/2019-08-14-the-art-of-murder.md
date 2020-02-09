@@ -20,7 +20,7 @@ On the one hand, this shouldn’t be too surprising. The existence of the ‘rog
 
 The murder-mystery long predates video games and goes back to the late 19th century, with the publication of _The Adventures of Sherlock Holmes,_ as well as the works of Edgar Allen Poe. Murder-mystery genre conventions have had a hundred years longer than roguelikes to mutate and mature. That also means they’ve been popular for far longer, and had an additional hundred-years-worth of contributions.
 
-When you’re trying to make your _own_ contribution, this is just as much a drawback as it is a benefit.;there’s more to study, more examples of what does and doesn’t work, absolutely. But there’s also more audience literacy, more cliches, more ideas already taken. More ideas that have simply been done_ to death_.
+When you’re trying to make your _own_ contribution, this is just as much a drawback as it is a benefit.;there’s more to study, more examples of what does and doesn’t work, absolutely. But there’s also more audience literacy, more cliches, more ideas already taken. More ideas that have simply been done _to death_.
 
 There’s a very general flow that all murder-mysteries seem to follow - solving puzzles helps you understand the story, and understanding the story helps you solve future puzzles. 
 
