@@ -69,7 +69,7 @@ I’ve chosen one game for each of these considerations that I feel demonstrate 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art0.png "image_tooltip")
+![alt_text](assets/images/The-Art0.png "image_tooltip")
 
 
 From [http://www.thesexybrutalegame.com/](http://www.thesexybrutalegame.com/)
@@ -127,7 +127,7 @@ In the game I’m designing, the players will be playing as the local police for
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art1.png "image_tooltip")
+![alt_text](assets/images/The-Art1.png "image_tooltip")
 
 
 First hot take: the reason Ace Attorney isn’t on this list of inspirations is because I believe the Danganronpa series does everything Ace Attorney does, but _better_.
@@ -143,7 +143,7 @@ Another good reason to suspect it is that, according to Aragon, _Conception_ is 
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art2.png "image_tooltip")
+![alt_text](assets/images/The-Art2.png "image_tooltip")
 
 
 This naturally begs the question - how do the people responsible for some truly terrible twist endings, as well as an absolutely horrific anime, still manage to produce one of the most iconic contributions to the murder-mystery genre?
@@ -214,7 +214,7 @@ I’m glad Return of the Obra Dinn came out in 2018, because it means I don’t 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art3.png "image_tooltip")
+![alt_text](assets/images/The-Art3.png "image_tooltip")
 
 
 If The Sexy Brutale is narrative-as-puzzles, where the puzzles exist to pace the story and immerse the player in the narrative themes, then Obra Dinn is its inverse: solving the puzzle _is_ the story.
@@ -268,7 +268,7 @@ Unheard is an interesting mystery puzzle game where you have to solve a crime. Y
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art4.png "image_tooltip")
+![alt_text](assets/images/The-Art4.png "image_tooltip")
 
 
 This sounded like a very cool idea, until I played it and realized that essentially this was problem solving by stenography. Most of the challenge of solving the puzzles came from listening to multiple clips of the same 8 minutes of audio over and over again, as all the clues were given explicitly in dialogue. 
@@ -310,7 +310,7 @@ The hard part is finding people who disliked Danganronpa’s endings as much as 
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/The-Art5.png "image_tooltip")
+![alt_text](assets/images/The-Art5.png "image_tooltip")
 
 
 The reason I remember these games specifically is because they’re the ones I enjoyed talking to people about the most. I played Sexy Brutale twice through screenshare with friends, and the Obra Dinn was something I talked about for _weeks_ with friends. Danganronpa is a favourite conversation topic in the chat I share with Ben Pearce and Aragon. 
