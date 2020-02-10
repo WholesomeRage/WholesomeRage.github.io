@@ -45,8 +45,8 @@ I think depression just looks like laziness from the outside.
 
 When I talk to older people about this, they usually try to give me the sense that if I work hard enough, stick with it, and push through, everything will turn out alright in the end. Life might not be what you planned, or what you expected, but with enough effort you can make it through.
 
-But I think we’ve kind of picked up that’s a bit bullshit, haven’t we? \
- \
+But I think we’ve kind of picked up that’s a bit bullshit, haven’t we?
+
 The fact that _anyone_ can succeed isn’t reassuring enough when, at the same time, _everyone_ can’t. I’m scared, all the time. When I didn’t have a job, I was scared I’d never be able to get one. And now that I have one, I’m scared all the time that I might lose it. I have friends with better jobs—and they tell me of their fantasies of dying on the way to work. It's the only escape they can think of. 
 
 That’s terrifying.
