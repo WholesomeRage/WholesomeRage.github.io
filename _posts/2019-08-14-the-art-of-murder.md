@@ -64,7 +64,7 @@ I’ve chosen one game for each of these considerations that I feel demonstrate 
 
 **Narrative-as-puzzle**
 
-![Sexy Brutale](/assets/images/artofmurder/artofmurder1.png)
+![Sexy Brutale](/assets/images/artofmurder/ArtOfMurder1.png)
 
 From [http://www.thesexybrutalegame.com/](http://www.thesexybrutalegame.com/)
 
@@ -116,7 +116,7 @@ In the game I’m designing, the players will be playing as the local police for
 
 **Death as Narrative**
 
-![Danganronpa](/assets/images/artofmurder/artofmurder2.png)
+![Danganronpa](/assets/images/artofmurder/ArtOfMurder2.png)
 
 First hot take: the reason Ace Attorney isn’t on this list of inspirations is because I believe the Danganronpa series does everything Ace Attorney does, but _better_.
 
@@ -126,7 +126,7 @@ I have good reason to suspect, though, that Danganronpa didn’t come from uniqu
 
 Another good reason to suspect it is that, according to Aragon, _Conception_ is one of the worst anime he’s ever watched, and he makes a habit of binge-watching the very worst anime he can find.
 
-![Aragon](/assets/images/artofmurder/artofmurder3.png)
+![Aragon](/assets/images/artofmurder/ArtOfMurder3.png)
 
 This naturally begs the question - how do the people responsible for some truly terrible twist endings, as well as an absolutely horrific anime, still manage to produce one of the most iconic contributions to the murder-mystery genre?
 
@@ -190,7 +190,7 @@ Sometimes, it’s about understanding what _not_ to take.
 
 I’m glad Return of the Obra Dinn came out in 2018, because it means I don’t have to choose between it and The Sexy Brutale for my game-of-the-year picks. 
 
-![Obra Dinn](/assets/images/artofmurder/artofmurder4.png)
+![Obra Dinn](/assets/images/artofmurder/ArtOfMurder4.png)
 
 If The Sexy Brutale is narrative-as-puzzles, where the puzzles exist to pace the story and immerse the player in the narrative themes, then Obra Dinn is its inverse: solving the puzzle _is_ the story.
 
@@ -238,7 +238,7 @@ Sometimes, it’s about understanding what _not_ to do. Sometimes it’s just as
 
 Unheard is an interesting mystery puzzle game where you have to solve a crime. You can only hear everything that happens before the crime occurs, and where it happens on a floorplan.
 
-![Unheard](/assets/images/artofmurder/artofmurder5.png)
+![Unheard](/assets/images/artofmurder/ArtOfMurder5.png)
 
 This sounded like a very cool idea, until I played it and realized that essentially this was problem solving by stenography. Most of the challenge of solving the puzzles came from listening to multiple clips of the same 8 minutes of audio over and over again, as all the clues were given explicitly in dialogue. 
 
@@ -274,7 +274,7 @@ I think the most important part of breaking things down is having friends who en
 
 The hard part is finding people who disliked Danganronpa’s endings as much as I did.
 
-![Sexy Brutale](/assets/images/artofmurder/artofmurder6.png)
+![Pearple](/assets/images/artofmurder/ArtOfMurder6.png)
 
 The reason I remember these games specifically is because they’re the ones I enjoyed talking to people about the most. I played Sexy Brutale twice through screenshare with friends, and the Obra Dinn was something I talked about for _weeks_ with friends. Danganronpa is a favourite conversation topic in the chat I share with Ben Pearce and Aragon. 
 
