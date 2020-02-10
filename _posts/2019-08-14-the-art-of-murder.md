@@ -64,13 +64,7 @@ I’ve chosen one game for each of these considerations that I feel demonstrate 
 
 **Narrative-as-puzzle**
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art0.png "image_tooltip")
-
+![Sexy Brutale](/assets/images/artofmurder/artofmurder1.png)
 
 From [http://www.thesexybrutalegame.com/](http://www.thesexybrutalegame.com/)
 
@@ -122,13 +116,7 @@ In the game I’m designing, the players will be playing as the local police for
 
 **Death as Narrative**
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art1.png "image_tooltip")
-
+![Danganronpa](/assets/images/artofmurder/artofmurder2.png)
 
 First hot take: the reason Ace Attorney isn’t on this list of inspirations is because I believe the Danganronpa series does everything Ace Attorney does, but _better_.
 
@@ -138,13 +126,7 @@ I have good reason to suspect, though, that Danganronpa didn’t come from uniqu
 
 Another good reason to suspect it is that, according to Aragon, _Conception_ is one of the worst anime he’s ever watched, and he makes a habit of binge-watching the very worst anime he can find.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art2.png "image_tooltip")
-
+![Aragon](/assets/images/artofmurder/artofmurder3.png)
 
 This naturally begs the question - how do the people responsible for some truly terrible twist endings, as well as an absolutely horrific anime, still manage to produce one of the most iconic contributions to the murder-mystery genre?
 
@@ -164,7 +146,6 @@ Every murderer is someone you knew. Every victim is someone you knew.
 
 Every case means that, at a minimum, two people are removed from the game: the victim, and the executed murderer. That’s a _minimum_, though, as some cases can have multiple victims.
 
- \
 After four or five cases, suddenly the game is down to only you and maybe three other people. Three other people who you’ve put your life in the hands of several times now, who’ve gotten you through everything—and also Yasuhiro is there too.
 
 Danganronpa is an exceptional murder-mystery in its trial mechanic, which is what I mean when I say that it does Phoenix Wright better than Phoenix Wright. Just trial-for-trial, I believe Danganronpa has better cases and fewer frustration moments... so long as you set the awful minigames to their easiest difficulty, which you always should.
@@ -183,7 +164,7 @@ And, in later cases, you think of how useful a character would be right now if t
 
 The most brilliant—and unintuitive—element of Danganronpa is that the game it’s built on top of is essentially a dating simulator: during your free time events, you can hang out and flirt with the surviving classmates, give them gifts, find out more about them. Get closer to them.
 
-This means ittt really twists the knife when they die. Or when you have to out them as the murderer.
+This means it really twists the knife when they die. Or when you have to out them as the murderer.
 
 My own game steals two elements from Danganronpa. The first is the structure of interacting with the relevant characters _before_ a murder, and then having the murder happen _after_ a major event that the players were directly involved in. The events before a murder always help to explain it in some way, and the clues are often given to you before the murder starts, if you know how to look for them. 
 
@@ -209,13 +190,7 @@ Sometimes, it’s about understanding what _not_ to take.
 
 I’m glad Return of the Obra Dinn came out in 2018, because it means I don’t have to choose between it and The Sexy Brutale for my game-of-the-year picks. 
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art3.png "image_tooltip")
-
+![Obra Dinn](/assets/images/artofmurder/artofmurder4.png)
 
 If The Sexy Brutale is narrative-as-puzzles, where the puzzles exist to pace the story and immerse the player in the narrative themes, then Obra Dinn is its inverse: solving the puzzle _is_ the story.
 
@@ -263,13 +238,7 @@ Sometimes, it’s about understanding what _not_ to do. Sometimes it’s just as
 
 Unheard is an interesting mystery puzzle game where you have to solve a crime. You can only hear everything that happens before the crime occurs, and where it happens on a floorplan.
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art4.png "image_tooltip")
-
+![Unheard](/assets/images/artofmurder/artofmurder5.png)
 
 This sounded like a very cool idea, until I played it and realized that essentially this was problem solving by stenography. Most of the challenge of solving the puzzles came from listening to multiple clips of the same 8 minutes of audio over and over again, as all the clues were given explicitly in dialogue. 
 
@@ -305,13 +274,7 @@ I think the most important part of breaking things down is having friends who en
 
 The hard part is finding people who disliked Danganronpa’s endings as much as I did.
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/The-Art5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](assets/images/The-Art5.png "image_tooltip")
-
+![Sexy Brutale](/assets/images/artofmurder/artofmurder6.png)
 
 The reason I remember these games specifically is because they’re the ones I enjoyed talking to people about the most. I played Sexy Brutale twice through screenshare with friends, and the Obra Dinn was something I talked about for _weeks_ with friends. Danganronpa is a favourite conversation topic in the chat I share with Ben Pearce and Aragon. 
 
