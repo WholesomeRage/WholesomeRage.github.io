@@ -199,7 +199,7 @@ In that vein, then, here’s a list of all the things that, in my opinion, _Atta
 
 - There’s this character called Hange, and they’re nonbinary and also one of the main, most important characters, and a fan favorite. That’s kind of neat. The official translation uses they/them. They have a lot of shit going on, they’re not just defined by their lack of a binary gender, and that’s also pretty neat. Manga is an incredibly cisheteronormative medium, so it’s refreshing to see such a mainstream series have one of its best characters be trans.
 
-- _Attack on Titan_ has a lot of jokes, and frankly, they can be real good. There’s an old piece of advice I stole from [url=https://en.wikipedia.org/wiki/Ryukishi07]Ryukishi07[/url] that I like to tell newbie writers—if you want your readers to cry for your characters, make them laugh first. Make the character fun, and funny, and entertaining to read about, and then your readers will develop an emotional link to said character. Kill them then, and see the tears flow. _Attack on Titan_ does this, and it does it well.
+- _Attack on Titan_ has a lot of jokes, and frankly, they can be real good. There’s an old piece of advice I stole from [Ryukishi07](https://en.wikipedia.org/wiki/Ryukishi07) that I like to tell newbie writers—if you want your readers to cry for your characters, make them laugh first. Make the character fun, and funny, and entertaining to read about, and then your readers will develop an emotional link to said character. Kill them then, and see the tears flow. _Attack on Titan_ does this, and it does it well.
 
 - The worldbuilding is pretty cool up till a certain point. The way people kill titans—high-speed steam-powered parkour with swords—is just stupid enough that you roll with it. You’re like, yeah, yeah. I dig that. I dig it. It’s just visually effective enough that it works.
 
@@ -255,7 +255,7 @@ Like, it’s in the _dialogue_.
 
 ![](/assets/images/AttackOnTitan/AoT36.png)
 
-The thing about war, as an allegory, is that it’s _reductive_. It presents a conflict that is only solved through the destruction of the others. It works very well for certain conflicts—to go back to the earlier example, you can’t negotiate with the abstract conflict of climate change—but others, it has some Unfortunate Implications. [url=https://www.ursulakleguin.com/some-assumptions-about-fantasy]Ursula K. Le Guin[/url] avoided the use of war as an allegory; she found it simplistic, and easy to misuse. To quote her directly:
+The thing about war, as an allegory, is that it’s _reductive_. It presents a conflict that is only solved through the destruction of the others. It works very well for certain conflicts—to go back to the earlier example, you can’t negotiate with the abstract conflict of climate change—but others, it has some Unfortunate Implications. [Ursula K. Le Guin](https://www.ursulakleguin.com/some-assumptions-about-fantasy) avoided the use of war as an allegory; she found it simplistic, and easy to misuse. To quote her directly:
 
 > Immature people crave and demand moral certainty: This is bad, this is good. Kids and adolescents struggle to find a sure moral foothold in this bewildering world; they long to feel they’re on the winning side, or at least a member of the team. To them, heroic fantasy may offer a vision of moral clarity. Unfortunately, the pretended Battle Between (unquestioned) Good and (unexamined) Evil obscures instead of clarifying, serving as a mere excuse for violence — as brainless, useless, and base as aggressive war in the real world.
 
@@ -331,7 +331,7 @@ It completely fucks up the characters. To give you an example.
 
 Escalation is a common problem in manga; it’s almost a staple of the medium that, as a series keeps going, the stakes will get higher and higher, and never stop. Ultimately, threats are so large in scale, it’s ridiculous—every enemy is ten times stronger than the last, every explosion is ten times bigger, etcetera—and the first few chapters look quaint in comparison. 
 
-It’s an endemic problem, one that takes away from the legitimacy of manga as an artistic medium for many people, and a symptom of the **despicable** working conditions manga authors are expected to live through. When your schedule [url=https://cdn.discordapp.com/attachments/605720171801214980/852934426093551626/image-asset.png]looks like this[/url], it’s absolutely natural that your storytelling abilities will suffer; and long-term planning will go out the window because you need to meet your deadline every week, and you have no time to think or plan or rest, and you’re operating on three hours of sleep. Constantly.
+It’s an endemic problem, one that takes away from the legitimacy of manga as an artistic medium for many people, and a symptom of the **despicable** working conditions manga authors are expected to live through. When your schedule [looks like this](https://cdn.discordapp.com/attachments/605720171801214980/852934426093551626/image-asset.png), it’s absolutely natural that your storytelling abilities will suffer; and long-term planning will go out the window because you need to meet your deadline every week, and you have no time to think or plan or rest, and you’re operating on three hours of sleep. Constantly.
 
 Which means that yes, actually, manga and anime are often really fucking bad because of capitalism. That’s the reason why we’ve got so much fucking disgusting fanservice, often of the underage kind, so—y’know. Gift that keeps on giving. Thanks, Adam Smith. Really cool.
 
@@ -521,7 +521,7 @@ Then fucking Reiner, who I swear to god has been silently standing by the corner
 
 So we get the exact same reveal and the same beats twice in a row. Annie’s doing stuff, and then the story goes “wait, no, something’s wrong,” pauses, does it again with a guy in her stead, and goes “phew, that’s so much better.”
 
-Reiner is given entire _chapters_ about his psyche and how he feels about killing the people he’s called ‘friends’ for years. It gets to the point where [url=https://attackontitan.fandom.com/wiki/Reiner_Braun]the wiki calls him “the main protagonist of _Attack on Titan_ from the (non-Paradis) perspective[/url]. The first time I read _Attack on Titan_, I had _no idea_ who he was when we’re told he’s a traitor. I had to Google it.
+Reiner is given entire _chapters_ about his psyche and how he feels about killing the people he’s called ‘friends’ for years. It gets to the point where [the wiki calls him “the main protagonist of _Attack on Titan_ from the (non-Paradis) perspective](https://attackontitan.fandom.com/wiki/Reiner_Braun). The first time I read _Attack on Titan_, I had _no idea_ who he was when we’re told he’s a traitor. I had to Google it.
 
 Annie is only important when Reiner talks to her. He’s like, what the fuck’s up with you. She goes, idk, I’ve got a dad, I guess. I’m very taciturn. I kill stuff.
 
@@ -708,7 +708,7 @@ The argument then concludes that, since this is not the case in the real world, 
 As I said, I disagree with this argument. I summarize my reply in three points:
 
 
-1. In-universe justifications for harmful messages in a series are ultimately meaningless. _In the fiction of the show_, yes, racism is justified—but the fiction is created by the author. The racism is not a natural consequence of a creative work, but rather, it’s the entire reason the creative work exists in the first place. [url=https://www.youtube.com/watch?v=AxV8gAGmbtk]Folding Ideas dubbed this phenomenon “The Thermian Argument”[/url], and he explains this point better than I could. Check the video, it’s not even five minutes long.
+1. In-universe justifications for harmful messages in a series are ultimately meaningless. _In the fiction of the show_, yes, racism is justified—but the fiction is created by the author. The racism is not a natural consequence of a creative work, but rather, it’s the entire reason the creative work exists in the first place. [Folding Ideas dubbed this phenomenon “The Thermian Argument”](https://www.youtube.com/watch?v=AxV8gAGmbtk), and he explains this point better than I could. Check the video, it’s not even five minutes long.
 
 2. Every racist person out there believes their racism is based on objective facts. If _Attack on Titan_ is constructed in such a way that the reader comes out thinking that, well, the racists _have_ a point in this case—then you’re opening the door to the belief that sometimes racism is justified. _Attack on Titan_ doesn’t differentiate between the real world and the fictional world; it simply points at a situation, and says “racism is correct”. 
 
