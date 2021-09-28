@@ -750,7 +750,7 @@ So, that’s the Third Reich. That entire bit to me read like the Third Reich, t
 
 ![Last panel added to clarify that “other means to silence the minorities” specifically means “to purge or exterminate them”. This is obvious if you’ve read the story up to this point.](/assets/images/AttackOnTitan/AoT118.png)
 
-The Eldians ultimately lost. Their leader, Karl Fritz, grew tired of the fight and betrayed them, forcing his own people to retreat to the island of Paradis[4]. 
+The Eldians ultimately lost. Their leader, Karl Fritz, grew tired of the fight and betrayed them, forcing his own people to retreat to the island of Paradis. 
 
 If you remember correctly, Paradis is the _Attack on Titan_ equivalent of Madagascar. [When I brought this up to two German friends of mine, they rightfully flipped the fuck out, and linked me to this page.](https://en.wikipedia.org/wiki/Madagascar_Plan) I _told you_ that the picture of Eren as King Julian would be relevant. I _told you_.
 
@@ -804,9 +804,7 @@ And of course, there’s, yknow. The fact that it all ends with Eldians committi
 
 I’ve seen people argue that Eldians aren’t a Nazi allegory, but rather, [that they’re an allegory for Jewish people](https://www.animefeminist.com/my-fave-is-problematic-attack-on-titan/). It’s humans who represent the Nazis. This is because in the current time of the series, it’s _Eldians_ who are forced to live in ghettos, it’s _Eldians_ who are oppressed. 
 
-I don’t agree with this reading, though, because that implies ignoring everything else regarding Eldian history[5]. To me, the Jewish parallel isn’t there; Eldians are, indeed, currently oppressed—but this feels less like a callback to the horrible persecution Jewish people have suffered through history, and more a representation of modern blowback against, uh. Nazis, I guess.
-
-[5] I also feel the need to add that Eldians being an allegory for Jewish people would, if anything, be worse. Eldians turn into horrible, often big-nosed monsters [who feast on human flesh](https://en.m.wikipedia.org/wiki/Blood_libel), and openly recognize they used to rule the world. In a way, it makes the series feel more explicitly anti-Semitic. 
+I don’t agree with this reading, though, because that implies ignoring everything else regarding Eldian history. To me, the Jewish parallel isn’t there; Eldians are, indeed, currently oppressed—but this feels less like a callback to the horrible persecution Jewish people have suffered through history, and more a representation of modern blowback against, uh. Nazis, I guess. I also feel the need to add that Eldians being an allegory for Jewish people would, if anything, be worse. Eldians turn into horrible, often big-nosed monsters [who feast on human flesh](https://en.m.wikipedia.org/wiki/Blood_libel), and openly recognize they used to rule the world. In a way, it makes the series feel more explicitly anti-Semitic. 
 
 It’s a testament to the ambiguity of allegories that the main division among literary analysts of this story is who, exactly, are the real Nazis. In my defense, I’ll also add that the article linked above was written before Eren committed genocide; that little fact does tip the scales somewhat.
 
@@ -882,9 +880,9 @@ And then people found the author’s private Twitter account. To quote directly:
 
 ![Screencaps by seldomusings.wordpress.com](https://seldomusings.files.wordpress.com/2013/10/migite3.png)
 
-Interesting to note that the Holocaust comparisons aren’t purely due to a Eurocentric reading of the series either—as I mentioned, the visual parallels are definitely intentional—and from what I understand, it’s not like comparing a denial of the Holocaust with a denial of Japanese war crimes is a new thing either way [*]. 
+Interesting to note that the Holocaust comparisons aren’t purely due to a Eurocentric reading of the series either—as I mentioned, the visual parallels are definitely intentional—and from what I understand, it’s not like comparing a denial of the Holocaust with a denial of Japanese war crimes is a new thing either way. 
 
-[*] As a side note, this does suggest the alternate reading that Eldians stand, not for the Third Reich, but rather for the Empire of Japan. In exchange, the humans _do_ stand for the Nazi regime, and the point of _Attack on Titan_ is now “look how much _worse_ they are” by having the Nazi humans opress the Eldians.
+As a side note, this does suggest the alternate reading that Eldians stand, not for the Third Reich, but rather for the Empire of Japan. In exchange, the humans _do_ stand for the Nazi regime, and the point of _Attack on Titan_ is now “look how much _worse_ they are” by having the Nazi humans opress the Eldians.
 
 Ultimately, this changes very little of my criticism towards the series, since it’s still justifying genocide and criticising the perceived overstatement of past atrocities. You just change the exact flavor of genocide you’re defending.
 
