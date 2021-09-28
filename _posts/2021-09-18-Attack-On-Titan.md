@@ -752,7 +752,7 @@ So, that’s the Third Reich. That entire bit to me read like the Third Reich, t
 
 The Eldians ultimately lost. Their leader, Karl Fritz, grew tired of the fight and betrayed them, forcing his own people to retreat to the island of Paradis[4]. 
 
-If you remember correctly, Paradis is the _Attack on Titan_ equivalent of Madagascar. [url=https://en.wikipedia.org/wiki/Madagascar_Plan]When I brought this up to two German friends of mine, they rightfully flipped the fuck out, and linked me to this page.[/url] I _told you_ that the picture of Eren as King Julian would be relevant. I _told you_.
+If you remember correctly, Paradis is the _Attack on Titan_ equivalent of Madagascar. [When I brought this up to two German friends of mine, they rightfully flipped the fuck out, and linked me to this page.](https://en.wikipedia.org/wiki/Madagascar_Plan) I _told you_ that the picture of Eren as King Julian would be relevant. I _told you_.
 
 Not every Eldian was brought to Paradis, though. Some others were kept outside—and their descendants are the victims of the heinous racism I described above. Humans call it _justice_, because they’re doing to the Eldians what the Eldians did to them. And of course, this includes marking them with yellow stars, and red armbands:
 
