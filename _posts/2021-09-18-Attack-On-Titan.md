@@ -96,7 +96,7 @@ Also, the series has been set in Madagascar the whole time.
 
 ![](/assets/images/AttackOnTitan/AoT14.png)
 
-[This **will** be relevant later](/assets/images/AttackOnTitan/AoT15.png)
+![This **will** be relevant later](/assets/images/AttackOnTitan/AoT15.png)
 
 Also!
 
