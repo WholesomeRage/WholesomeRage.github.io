@@ -14,7 +14,7 @@ _Attack on Titan_, or _Shingeki no Kyojin_ if we’re being Like That, and we’
 
 But it’s bad in a _fascinating_ way. 
 
-Narratively speaking, _Attack on Titan_ makes some incredibly stupid mistakes. But that’s the thing, right? It also does some things incredibly well. Only, those things it does incredibly well _actually make the story worse as a whole. _It’s incredible. It’s super entertaining. Don’t read it. It blows.
+Narratively speaking, _Attack on Titan_ makes some incredibly stupid mistakes. But that’s the thing, right? It also does some things incredibly well. Only, those things it does incredibly well _actually make the story worse as a whole._ It’s incredible. It’s super entertaining. Don’t read it. It blows.
 
 So that’s what we’re talking about today. This review will be split in sections for ease of reading, and **<span style="text-decoration:underline;">it will contain full spoilers of everything _Attack on Titan_</span>**. You don’t need to know anything about the series to understand this review, and I don’t recommend you read it if you haven’t already.
 
@@ -191,9 +191,9 @@ So, yes, as I said earlier, _Attack on Titan_ does a few things very, very well�
 In that vein, then, here’s a list of all the things that, in my opinion, _Attack on Titan_ does well.
 
 - The very nature of the story, the ontological mystery at the center of it all, is well-executed. The hook is interesting, you _want_ to know both what happened in the past, and what comes next. The story keeps throwing twists at you, past chapters keep getting recontextualized as we understand more about the world, and overall, the story is very dynamic.
-- The characters grow! They learn from their mistakes, and change, and make new interesting mistakes, and sometimes they die. Character interaction is the soul of _Attack on Titan—_early on, it turns itself into an ensemble cast story, and that was a good choice. You get invested in them, you learn to like them.
+- The characters grow! They learn from their mistakes, and change, and make new interesting mistakes, and sometimes they die. Character interaction is the soul of _Attack on Titan_—early on, it turns itself into an ensemble cast story, and that was a good choice. You get invested in them, you learn to like them.
 
-- The action in _Attack on Titan_ is horrific and trauma inducing, and some of its imagery is purposely grotesque. This makes it an effective tension-builder—as I said, people just _die_ all the time—but this is juxtaposed with the more slice-of-lifey scenes that happen whenever we see the characters coexisting. These moments between big action setpieces act as a palate cleanser, and they also sell you that these people are _human. _They joke around, they can be genuinely funny, and they try to find levity in all the horror of their lives. _Attack on Titan_ at its best is a story about people trying to live while they survive. Which in turn, of course, only makes the action more horrific.
+- The action in _Attack on Titan_ is horrific and trauma inducing, and some of its imagery is purposely grotesque. This makes it an effective tension-builder—as I said, people just _die_ all the time—but this is juxtaposed with the more slice-of-lifey scenes that happen whenever we see the characters coexisting. These moments between big action setpieces act as a palate cleanser, and they also sell you that these people are _human._ They joke around, they can be genuinely funny, and they try to find levity in all the horror of their lives. _Attack on Titan_ at its best is a story about people trying to live while they survive. Which in turn, of course, only makes the action more horrific.
 
 - The characters are distinct enough that you can tell them all apart both in looks and general character and motivation at a glance. Which sounds like not that big of a deal, but this is a series with a big cast, and it’s _manga_. So it _is_ a big deal, actually. The art is stylistic, but it has strength and dynamism to it; seeing still images does it a disservice, because it really looks good when you read it all in a row.
 
@@ -233,7 +233,7 @@ Do you want to be the _hunter_, or do you want to be the _hunted?_
 
 So, there’s your answer. This is the story of Eren Hunter, who wants to kill all titans, because that’s the only way for humanity to survive: to destroy that which threatens you. 
 
-Now. War is a very common allegory in the fantasy genre. By making the abstract philosophical conflict of your story a _literal _one, the struggle is made _explicit, _and easier to understand_._ Famously, the big villain in _Game of Thrones_, the ice zombies, are an allegory for climate change; the author has the hero stabbing climate change to death to explain that we should try to avoid total ecological and environmental disaster.
+Now. War is a very common allegory in the fantasy genre. By making the abstract philosophical conflict of your story a _literal_ one, the struggle is made _explicit_, and _easier to understand_. Famously, the big villain in _Game of Thrones_, the ice zombies, are an allegory for climate change; the author has the hero stabbing climate change to death to explain that we should try to avoid total ecological and environmental disaster.
 
 Which means that, no, _Attack on Titan_ is not a lesser series by having the characters fight the Other with swords and cool steampunk devices. That’s just a tool. It’s what the war _represents_ that makes it icky—_Game of Thrones_ has climate change as a threat, right? So what does _Attack on Titan_ have? What do the titans _represent?_
 
@@ -281,7 +281,7 @@ Homo homini lupus. Fuck yeah.
 
 Now, the characters often talk about how they don’t want war. They repeatedly express that they want peace, that they don’t want to kill innocent people, that they want to talk with the enemies and find a civil solution to their conflict.
 
-Every time, though, this is seen as a foolish dream at best, an actual show of cowardice at worst. There’s a couple moments_ _where our main character _himself_ recognizes that, actually, his enemies aren’t as different from him. Both times, this is immediately followed by him going “mind, I’m still killing all of you.”
+Every time, though, this is seen as a foolish dream at best, an actual show of cowardice at worst. There’s a couple moments where our main character _himself_ recognizes that, actually, his enemies aren’t as different from him. Both times, this is immediately followed by him going “mind, I’m still killing all of you.”
 
 ![](/assets/images/AttackOnTitan/AoT43.png)
 
@@ -407,7 +407,7 @@ It’s all about the escalation. The threat has to continuously be bigger. As th
 
 ![](/assets/images/AttackOnTitan/AoT68.png)
 
-You, the reader, can’t just agree. You need to enthusiastically agree. You need to _feel it in your bones. _
+You, the reader, can’t just agree. You need to enthusiastically agree. *You need to feel it in your bones.*
 
 Imagine how awkward, then, when later in the series, these characters are supposed to be allies, misguided innocents all along. They join the heroes, and show that all this time, they had such a heightened sense of empathy. They want to put an end to the war, too. 
 
@@ -429,7 +429,7 @@ Be reintroduced to the very same characters like this:
 
 ![](/assets/images/AttackOnTitan/AoT74.png)
 
-She has a little intro before this where she’s played as a bit of a threat? She has a knife! She means business! And then it’s like, oh, look at her! She was just _hungry! _Laugh track, continue the story, never reference all the stuff she did. Some characters do point out that she’s getting off easy, but the narrative clearly frames them as hot-headed and in the wrong. _Move on_, it says. _That doesn’t matter._
+She has a little intro before this where she’s played as a bit of a threat? She has a knife! She means business! And then it’s like, oh, look at her! She was just _hungry!_ Laugh track, continue the story, never reference all the stuff she did. Some characters do point out that she’s getting off easy, but the narrative clearly frames them as hot-headed and in the wrong. _Move on_, it says. _That doesn’t matter._
 
 This is not just bad planning, though. This is all in service of the thesis. 
 
@@ -681,11 +681,11 @@ Which ironically proves not to be good enough. Since only eighty percent of the 
 
 ![](/assets/images/AttackOnTitan/AoT110.png)
 
-Which means that, when he said that it was _us_ versus _them_, he was unequivocally right. Violence _was _the solution; everything else fails. Characters give speeches on the need to stop the cycle of violence, they talk about the 
+Which means that, when he said that it was _us_ versus _them_, he was unequivocally right. Violence _was_ the solution; everything else fails. 
 
 Only, of course, _Attack on Titan_ chooses to represent the abstract idea of human conflict through racial relations—as in, every conflict in the series is caused by race. There are no ideological, political, moral, philosophical, or even religious differences at play; war is fought exclusively because one race hates the other too much to withstand their mere existence.
 
-Our main cast comes from the island of Paradis. The second paradigm shift of _Attack on Titan, _if you remember, was the twist that titans weren't the true enemy; it was humans. And to give you a sense of scale, here: we’re introduced to the concept of human racism when an Eldian child commits a minor offense—and as punishment, humans beat him up, and his little sister is eaten alive by dogs.
+Our main cast comes from the island of Paradis. The second paradigm shift of _Attack on Titan,_ if you remember, was the twist that titans weren't the true enemy; it was humans. And to give you a sense of scale, here: we’re introduced to the concept of human racism when an Eldian child commits a minor offense—and as punishment, humans beat him up, and his little sister is eaten alive by dogs.
 
 The people from Paradis are known as “Eldians” in the story, for the record. The term refers to both native Paradisians and also the descendants of Paradisians. This is important, because the hatred is not based on where they live, but rather, it’s _explicitly_ racial. 
 
@@ -697,7 +697,7 @@ The explanation for such disproportionate hatred is that, in the past, Eldians t
 
 Which means that _Attack on Titan_ advocates for the existence of ethnostates.
 
-This is an inevitable conclusion, really. The story’s entire point is that_ violence is necessary _and that conflict can only be solved when you completely decimate your enemy. At the same time, though, “conflict” is shown _exclusively_ as a matter of race—and racism is unconditional, and cannot be fixed at a societal level. _Attack on Titan_ advocates for violence against those who are not part of your race; there’s no other reading to the text, that’s the moral of the story. 
+This is an inevitable conclusion, really. The story’s entire point is that_ violence is necessary_ and that conflict can only be solved when you completely decimate your enemy. At the same time, though, “conflict” is shown _exclusively_ as a matter of race—and racism is unconditional, and cannot be fixed at a societal level. _Attack on Titan_ advocates for violence against those who are not part of your race; there’s no other reading to the text, that’s the moral of the story. 
 
 Some characters are shown as getting over their deep-seated racism for Eldians; tellingly, these characters aren’t humans. They’re Eldians who’ve been raised among humans, treated like subhuman garbage and taught to hate their own race—and then learn that they’re not inherently inferior. 
 
