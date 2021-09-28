@@ -261,7 +261,7 @@ The thing about war, as an allegory, is that it’s _reductive_. It presents a c
 
 If the actual threat that the war is representing is literally _other people_, humanity itself, then what we’re left with is a text that kind of… advocates for the necessity of genocide?
 
-We repeatedly, constantly, get Eren saying that he wants to exterminate all titans. “I’m going to kill all of these animals” is something he says multiple times; the term _extermination _is used literally—and the story treats this as a good, correct goal to pursue. Then we learn that the titans are people, and controlled by other people, and Eren’s goal is to _still_ exterminate them all. 
+We repeatedly, constantly, get Eren saying that he wants to exterminate all titans. “I’m going to kill all of these animals” is something he says multiple times; the term _extermination_ is used literally—and the story treats this as a good, correct goal to pursue. Then we learn that the titans are people, and controlled by other people, and Eren’s goal is to _still_ exterminate them all. 
 
 The series keeps asking the same question—is violence necessary? And every time, the answer is _yes_. 
 
@@ -483,7 +483,7 @@ The big issue with all the women in _Attack on Titan,_ if we’re going by the b
 
 The first point is easy to see, especially once the series is over. While you’re reading it you can’t really tell where a lot of the character arcs are going—and there’s enough women in the cast that you assume at least _one_ will end up doing anything remotely important.
 
-That doesn’t happen, though. In _Attack on Titan,_ men make choices, and women stand by and watch. Sometimes they _execute _the plans that men have drafted up, but they make sure to follow strict orders; they’re cripplingly devoid of any personality. Delete every female character from _Attack on Titan_ in the last 20 chapters or so, and there’ll be no real changes to the storyline—and in a character-based supernatural drama, that’s a huge red flag.
+That doesn’t happen, though. In _Attack on Titan,_ men make choices, and women stand by and watch. Sometimes they _execute_ the plans that men have drafted up, but they make sure to follow strict orders; they’re cripplingly devoid of any personality. Delete every female character from _Attack on Titan_ in the last 20 chapters or so, and there’ll be no real changes to the storyline—and in a character-based supernatural drama, that’s a huge red flag.
 
 But it’s the second point that really drives it home for me—mostly because the fact women in _Attack on Titan_ are defined and limited by the men they devote themselves to _is_ the reason they’re so irrelevant. A male character’s goal by the end of the series is to save the world and ensure a future for humanity; a woman’s motivation is to marry, have children, and maybe ask their daddy for a hug.
 
@@ -697,7 +697,7 @@ The explanation for such disproportionate hatred is that, in the past, Eldians t
 
 Which means that _Attack on Titan_ advocates for the existence of ethnostates.
 
-This is an inevitable conclusion, really. The story’s entire point is that_ violence is necessary_ and that conflict can only be solved when you completely decimate your enemy. At the same time, though, “conflict” is shown _exclusively_ as a matter of race—and racism is unconditional, and cannot be fixed at a societal level. _Attack on Titan_ advocates for violence against those who are not part of your race; there’s no other reading to the text, that’s the moral of the story. 
+This is an inevitable conclusion, really. The story’s entire point is that _violence is necessary_ and that conflict can only be solved when you completely decimate your enemy. At the same time, though, “conflict” is shown _exclusively_ as a matter of race—and racism is unconditional, and cannot be fixed at a societal level. _Attack on Titan_ advocates for violence against those who are not part of your race; there’s no other reading to the text, that’s the moral of the story. 
 
 Some characters are shown as getting over their deep-seated racism for Eldians; tellingly, these characters aren’t humans. They’re Eldians who’ve been raised among humans, treated like subhuman garbage and taught to hate their own race—and then learn that they’re not inherently inferior. 
 
@@ -866,7 +866,7 @@ Which drives us to my third point.
 
 **3. There’s a lot of evidence that the author of Attack on Titan may be a Japanese imperialist.**
 
-Who could’ve seen _that _coming.
+Who could’ve seen _that_ coming.
 
 [Japan has infamously glossed over past atrocities committed against China and Korea in their history textbooks and in their general educational system](https://www.bbc.com/news/magazine-21226068). These accounts go from the denial of the existence of “Comfort Women”—the name given to refer to the victims and survivors of [Japan's brutal sex slave trade, which ran from 1932 to 1945 in multiple occupied Asian countries, but especially Korea and China](https://www.history.com/news/comfort-women-japan-military-brothels-korea) to the [still very present, still very real denial that the Nanjing Massacre (also known as the Rape of Nanjing) ever happened.](https://en.wikipedia.org/wiki/Nanjing_Massacre_denial)
 
