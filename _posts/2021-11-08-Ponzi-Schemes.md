@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: What Capitalism Isn't
-date: 2020-12-31 19:10:00 -0700
+title: Ponzi Schemes
+date: 2021-11-08 19:10:00 -0700
 author: Wholesome Rage
 categories: [Economics, Politics]
 excerpt_separator: <!--more-->
