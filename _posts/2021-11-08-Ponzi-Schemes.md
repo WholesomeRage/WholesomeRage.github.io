@@ -31,7 +31,7 @@ I have one dollar, and one friend. I would like more dollars and no friends.
 
 I tell my friend: I have a great idea to make money, I just need some start up. If you give me a dollar, I’ll have two dollars by the end of the month. It sounds too good to be true, but they give me the dollar anyway. 
 
-At the end of the month, I give them the two dollars - the two dollars we started with. But I say it’s just _their_ dollar and I doubled it. Then I say; “Would you like me to do it again?” \
+At the end of the month, I give them the two dollars - the two dollars we started with. But I say it’s just _their_ dollar and I doubled it. Then I say; “Would you like me to do it again?”
 
 
 Now they know that they know I’m good for the money, they’ll give me back their two dollars, expecting four next month. This would be a problem, but they’ve told two friends about it. Now those two friends each give me a dollar. 
