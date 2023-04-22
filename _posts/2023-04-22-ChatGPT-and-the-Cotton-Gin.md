@@ -64,12 +64,12 @@ These tools are set to replace a lot of low-level white collar work and that _sh
 Because the work that can be done by machines probably should be. Tumblr user Voyaging-Too writes about what it means for grant proposals. 
 
 
-![](assets/images/ChatGPT/Image01.jpg)
+![](/assets/images/ChatGPT/Image01.jpg)
 
 
 Just now an artist rejected a photography prize because his image had been made by image generation software. Boris Eldagsen won Sony’s “Creative Open” category with his picture “The Electrician” from his “Psuedoamnesia” collection. Here’s that photo. 
 
-![](assets/images/ChatGPT/Image02.webp)
+![](/assets/images/ChatGPT/Image02.webp)
 
 The problem isn’t that this is computer generated. The problem is that this _won_ a _creative photography_ competition. It’s a boring two-shot in an old print style! 
 
@@ -78,9 +78,9 @@ High end photography keeps getting punk’d by photos like this, and it deserves
 Meanwhile, Eldagsen uses the tools to make much better, more interesting and more creative compositions. Also from Pseudoamnesia we have The Breath and The Memory;
 
 
-![](assets/images/ChatGPT/Image03.webp)
+![](/assets/images/ChatGPT/Image03.webp)
 
-![](assets/images/ChatGPT/Image04.webp)
+![](/assets/images/ChatGPT/Image04.webp)
 
 
 I love both of these! The Breath’s use of the generation tools to turn fabric into a form-fitting mask evoking a scream is an incredible use of the technology! The use of bayonets to imitate a leather strop in composition and reflective texture is inspired! 
@@ -110,7 +110,7 @@ The alternative is that the existing gulf between low-and-high skilled jobs wide
 We already saw a lot of this happen with journalism, and we’re still suffering the consequences of not having solved it. 
 
 
-![](assets/images/ChatGPT/Image05.webp)
+![](/assets/images/ChatGPT/Image05.webp)
 
 I’ll end with [Boris Eldagsen](https://edition.cnn.com/style/article/ai-photo-win-sony-scli-intl/index.html), talking to CNN:  \
  \
