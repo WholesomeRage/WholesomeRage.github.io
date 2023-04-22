@@ -18,6 +18,8 @@ I want to be careful saying that because a lot of orthodox economists finish the
 
 This is why we’ve got to talk about the cotton gin. 
 
+<!--more-->
+
 See, the cotton gin on its own is a good technology. Separating cotton without one is an immensely time and labour consuming practice. The cotton gin is a relatively simple machine that saves people having to do all that work. In a kind and just world that would let the same amount of people produce more cotton while having more free time. In an economist’s world that lets fewer people make the same amount of cotton and the people who are put out of work can retrain into ‘more productive’ industries. The same amount of work results in more stuff for everybody.
 
 But the cotton gin was invented in a world of slavery. Eli Whitney’s cotton gin came out in 1793, and so slavery exploded in the American South.  \
