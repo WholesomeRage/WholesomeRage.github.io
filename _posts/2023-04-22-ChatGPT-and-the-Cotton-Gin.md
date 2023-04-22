@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: ChatGPT and the Cotton Gin
-date: 2023-04-22 19:10:00 -0700
+date: 2023-04-21 19:10:00 -0700
 author: Wholesome Rage
 categories: [Economics, Politics]
 excerpt_separator: <!--more-->
