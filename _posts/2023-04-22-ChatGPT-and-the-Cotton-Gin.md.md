@@ -114,8 +114,8 @@ I’ll end with [Boris Eldagsen](https://edition.cnn.com/style/article/ai-photo-
  \
 _He said he applied "as a cheeky monkey" to find out if competitions "are prepared for AI images to enter. They are not."_
 
-_Eldagsen told CNN Tuesday: "It shows that at the moment the photographic world has been taken by surprise after this development that subtly you can create images that look like photography but you don't need to have the skills and expertise of photographers." \
-_
+_Eldagsen told CNN Tuesday: "It shows that at the moment the photographic world has been taken by surprise after this development that subtly you can create images that look like photography but you don't need to have the skills and expertise of photographers."_ \
+
 
 _He said that AI had left many photographers feeling "threatened and afraid that they are going to lose their jobs which will happen."_
 
